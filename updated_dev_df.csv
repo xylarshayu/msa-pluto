@@ -1,0 +1,931 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,Duration
+1,"Oh my God, hes lost it. Hes totally lost it.",Phoebe,sadness,negative,0,0,4,7,2023-05-02 00:20:57.256,2023-05-02 00:21:00.049,2.793
+2,What?,Monica,surprise,negative,0,1,4,7,2023-05-02 00:21:01.927,2023-05-02 00:21:03.261,1.334
+4,Youre a genius!,Chandler,joy,positive,1,1,4,4,2023-05-02 00:12:32.334,2023-05-02 00:12:33.960,1.6260000000000001
+5,"Aww, man, now we wont be bank buddies!",Joey,sadness,negative,1,2,4,4,2023-05-02 00:12:34.211,2023-05-02 00:12:37.505,3.294
+6,"Now, theres two reasons.",Chandler,neutral,neutral,1,3,4,4,2023-05-02 00:12:38.466,2023-05-02 00:12:39.841,1.375
+7,Hey.,Phoebe,neutral,neutral,1,4,4,4,2023-05-02 00:12:43.012,2023-05-02 00:12:44.074,1.062
+8,Hey!,All,joy,positive,1,5,4,4,2023-05-02 00:12:44.074,2023-05-02 00:12:45.189,1.115
+10,Where?!,Rachel,surprise,negative,1,7,4,4,2023-05-02 00:12:52.730,2023-05-02 00:12:55.002,2.2720000000000002
+11,On the touchy.,Phoebe,neutral,neutral,1,8,4,4,2023-05-02 00:12:55.002,2023-05-02 00:12:55.824,0.8220000000000001
+12,And,Ross,neutral,neutral,1,9,4,4,2023-05-02 00:12:56.025,2023-05-02 00:12:58.193,2.168
+13,"No, I know!",Phoebe,surprise,negative,1,10,4,4,2023-05-02 00:12:59.195,2023-05-02 00:13:01.863,2.668
+17,"Thank you, Joey.",Chandler,neutral,neutral,1,14,4,4,2023-05-02 00:13:29.391,2023-05-02 00:13:30.483,1.092
+18,"No-no, thank you.",Joey,neutral,neutral,1,15,4,4,2023-05-02 00:13:30.483,2023-05-02 00:13:31.611,1.1280000000000001
+19,"Hey Estelle, listen",Joey,neutral,neutral,2,0,6,4,2023-05-02 00:08:53.241,2023-05-02 00:08:57.224,3.983
+21,What are you talkin about? I never left you! Youve always been my agent!,Joey,surprise,negative,2,2,6,4,2023-05-02 00:09:08.548,2023-05-02 00:09:13.476,4.928
+22,Really?!,Estelle,surprise,positive,2,3,6,4,2023-05-02 00:09:13.594,2023-05-02 00:09:14.476,0.882
+23,Yeah!,Joey,joy,positive,2,4,6,4,2023-05-02 00:09:14.476,2023-05-02 00:09:15.728,1.252
+24,"Oh well, no harm, no foul.",Estelle,neutral,neutral,2,5,6,4,2023-05-02 00:09:16.138,2023-05-02 00:09:19.224,3.0860000000000003
+25,"Okay, you guys free tonight?",Gary,neutral,neutral,3,0,5,20,2023-05-02 00:01:00.894,2023-05-02 00:01:02.271,1.377
+26,Yeah!!,Ross,joy,positive,3,1,5,20,2023-05-02 00:01:02.271,2023-05-02 00:01:03.961,1.6900000000000002
+27,Tonight? You-you didn't say it was going to be at nighttime.,Chandler,surprise,negative,3,2,5,20,2023-05-02 00:01:04.731,2023-05-02 00:01:07.608,2.8770000000000002
+28,Yes? Yes?! How can I help you?,Ross,neutral,neutral,4,0,7,7,2023-05-02 00:14:33.289,2023-05-02 00:14:36.040,2.7510000000000003
+29,"Yeah, we werewe were just looking around.",Guy,neutral,neutral,4,1,7,7,2023-05-02 00:14:36.208,2023-05-02 00:14:38.001,1.7930000000000001
+30,"Oh-oh, youre-youre fellow scholars.",Ross,surprise,negative,4,2,7,7,2023-05-02 00:14:38.210,2023-05-02 00:14:40.587,2.3770000000000002
+31,"What exactly were you looking for, hmm?",Ross,neutral,neutral,4,3,7,7,2023-05-02 00:14:40.754,2023-05-02 00:14:43.256,2.5020000000000002
+33,Uhh.,Guy,neutral,neutral,4,5,7,7,2023-05-02 00:14:51.932,2023-05-02 00:14:53.099,1.167
+35,"Uh, actually I find Marions views far too progressionist.",Woman,neutral,neutral,4,7,7,7,2023-05-02 00:15:12.036,2023-05-02 00:15:16.623,4.587000000000001
+36,I find Marions views far too progressionist.,Ross,neutral,neutral,4,8,7,7,2023-05-02 00:15:21.253,2023-05-02 00:15:24.547,3.294
+37,"Im sorry, who are you?",Woman,surprise,positive,4,9,7,7,2023-05-02 00:15:24.798,2023-05-02 00:15:27.967,3.169
+38,"Im a professor here uh, RossGeller.",Ross,neutral,neutral,4,10,7,7,2023-05-02 00:15:28.177,2023-05-02 00:15:30.386,2.209
+41,"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",Woman,surprise,positive,4,13,7,7,2023-05-02 00:15:56.830,2023-05-02 00:15:58.311,1.481
+42,"Well I uh, I skipped forth grade.",Ross,neutral,neutral,4,14,7,7,2023-05-02 00:15:59.500,2023-05-02 00:16:03.544,4.0440000000000005
+43,You had no right to tell me you ever had feelings for me.,Ross,anger,negative,5,0,2,7,2023-05-02 00:18:28.565,2023-05-02 00:18:31.234,2.669
+44,What?,Rachel,surprise,negative,5,1,2,7,2023-05-02 00:18:31.693,2023-05-02 00:18:33.528,1.8350000000000002
+45,I was doing great with Julie before I found out about you.,Ross,anger,negative,5,2,2,7,2023-05-02 00:18:31.693,2023-05-02 00:18:35.196,3.503
+46,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",Rachel,anger,negative,5,3,2,7,2023-05-02 00:18:35.364,2023-05-02 00:18:39.951,4.587000000000001
+47,The point is I...,Ross,anger,negative,5,4,2,7,2023-05-02 00:19:12.818,2023-05-02 00:19:14.030,1.212
+48,"I don't need this right now, OK.",Ross,anger,negative,5,5,2,7,2023-05-02 00:19:14.030,2023-05-02 00:19:15.699,1.669
+49,"It, it's too late, I'm with somebody else, I'm happy.",Ross,anger,negative,5,6,2,7,2023-05-02 00:19:15.821,2023-05-02 00:19:20.741,4.92
+50,This ship has sailed.,Ross,anger,negative,5,7,2,7,2023-05-02 00:19:17.781,2023-05-02 00:19:20.741,2.96
+51,"Alright, fine, you go ahead and you do that, alright Ross.",Rachel,anger,negative,5,8,2,7,2023-05-02 00:19:27.166,2023-05-02 00:19:29.588,2.422
+52,Fine.,Ross,anger,negative,5,9,2,7,2023-05-02 00:19:29.588,2023-05-02 00:19:29.727,0.139
+53,Cause I don't need your stupid ship.,Rachel,anger,negative,5,10,2,7,2023-05-02 00:19:29.835,2023-05-02 00:19:31.210,1.375
+54,Good.,Ross,anger,negative,5,11,2,7,2023-05-02 00:19:31.378,2023-05-02 00:19:32.440,1.062
+55,Good.,Rachel,anger,negative,5,12,2,7,2023-05-02 00:19:32.440,2023-05-02 00:19:33.256,0.8160000000000001
+56,"Oh, it's so romantic to send people off on their honeymoon.",Phoebe,joy,positive,6,0,8,3,2023-05-02 00:03:10.273,2023-05-02 00:03:14.610,4.337000000000001
+58,All in good time my love.,Phoebe,neutral,neutral,6,2,8,3,2023-05-02 00:03:19.032,2023-05-02 00:03:22.044,3.012
+59,All in good time.,Phoebe,neutral,neutral,6,3,8,3,2023-05-02 00:03:22.044,2023-05-02 00:03:25.177,3.133
+60,Oh shoot!,Phoebe,surprise,negative,6,4,8,3,2023-05-02 00:03:26.247,2023-05-02 00:03:27.415,1.1680000000000001
+61,I left my guitar in their apartment.,Phoebe,sadness,negative,6,5,8,3,2023-05-02 00:03:27.415,2023-05-02 00:03:29.417,2.0020000000000002
+62,Well you can let me in later.,Phoebe,neutral,neutral,6,6,8,3,2023-05-02 00:03:29.417,2023-05-02 00:03:31.086,1.669
+63,"I dont have a key, they took mine to give to you.",Joey,neutral,neutral,6,7,8,3,2023-05-02 00:03:31.211,2023-05-02 00:03:33.589,2.378
+64,What?! They took mine to give to you!,Phoebe,surprise,negative,6,8,8,3,2023-05-02 00:03:33.589,2023-05-02 00:03:33.746,0.157
+66,Wow! It looks like we got a lot of good stuff.,Ross,joy,positive,7,0,8,20,2023-05-02 00:15:01.722,2023-05-02 00:15:03.557,1.8350000000000002
+67,"Oh we did, but my mom got us the greatest gift of all.",Rachel,joy,positive,7,1,8,20,2023-05-02 00:15:03.724,2023-05-02 00:15:06.560,2.8360000000000003
+68,A,Ross,neutral,neutral,7,2,8,20,2023-05-02 00:15:06.769,2023-05-02 00:15:08.729,1.9600000000000002
+69,No. Shes going to live with us for eight weeks.,Rachel,neutral,neutral,7,3,8,20,2023-05-02 00:15:09.897,2023-05-02 00:15:14.026,4.1290000000000004
+70,"Uh, what?",Ross,surprise,positive,7,4,8,20,2023-05-02 00:15:14.276,2023-05-02 00:15:15.672,1.3960000000000001
+71,Yes! Shes gonna help us take care of the baby! Woo-hoo.,Rachel,joy,positive,7,5,8,20,2023-05-02 00:15:15.861,2023-05-02 00:15:19.656,3.7950000000000004
+72,WhatYoure not serious.,Ross,surprise,negative,7,6,8,20,2023-05-02 00:15:20.574,2023-05-02 00:15:22.743,2.169
+73,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",Ross,anger,negative,7,7,8,20,2023-05-02 00:15:22.910,2023-05-02 00:15:27.247,4.337000000000001
+74,Shell drive us totally crazy.,Ross,disgust,negative,7,8,8,20,2023-05-02 00:15:27.414,2023-05-02 00:15:28.999,1.5850000000000002
+75,Hi Ross!,Mrs. Green,joy,positive,7,9,8,20,2023-05-02 00:15:28.999,2023-05-02 00:15:29.508,0.509
+76,Hi roomie!,Ross,joy,positive,7,10,8,20,2023-05-02 00:15:29.625,2023-05-02 00:15:31.835,2.21
+77,Hey! What did you decide to do about the movie?,Monica,neutral,neutral,8,0,7,19,2023-05-02 00:03:17.697,2023-05-02 00:03:20.199,2.5020000000000002
+78,I dont know!,Joey,neutral,neutral,8,1,7,19,2023-05-02 00:03:20.366,2023-05-02 00:03:22.743,2.3770000000000002
+79,Its not like its porn!,Joey,neutral,neutral,8,2,7,19,2023-05-02 00:03:23.119,2023-05-02 00:03:24.621,1.502
+80,"This is a serious, legitimate movie.",Joey,neutral,neutral,8,3,7,19,2023-05-02 00:03:24.621,2023-05-02 00:03:27.226,2.605
+82,And the nudity is really important to the story.,Joey,neutral,neutral,8,4,7,19,2023-05-02 00:03:27.332,2023-05-02 00:03:29.750,2.418
+83,Thats what you say about porn.,Monica,neutral,neutral,8,5,7,19,2023-05-02 00:03:29.918,2023-05-02 00:03:32.085,2.1670000000000003
+84,Youre right. Maybe I shouldnt even go on the call back.,Joey,neutral,neutral,8,6,7,19,2023-05-02 00:03:33.004,2023-05-02 00:03:35.339,2.335
+86,Well thats true.,Joey,neutral,neutral,8,8,7,19,2023-05-02 00:03:42.972,2023-05-02 00:03:44.015,1.0430000000000001
+87,And I am only naked in one scene.,Joey,neutral,neutral,8,9,7,19,2023-05-02 00:03:44.015,2023-05-02 00:03:46.777,2.762
+88,Plus it sounds really great.,Joey,neutral,neutral,8,10,7,19,2023-05-02 00:03:46.777,2023-05-02 00:03:48.325,1.548
+89,My characters catholic and he falls in love with this Jewish girl.,Joey,neutral,neutral,8,11,7,19,2023-05-02 00:03:48.394,2023-05-02 00:03:51.480,3.0860000000000003
+90,Who run away together and they get caught in this big rainstorm.,Joey,neutral,neutral,8,12,7,19,2023-05-02 00:03:51.648,2023-05-02 00:03:54.316,2.668
+91,So we go into this barn and undress each other and hold each other.,Joey,neutral,neutral,8,13,7,19,2023-05-02 00:03:54.484,2023-05-02 00:03:58.028,3.544
+92,Its really sweet and-and tender.,Joey,joy,positive,8,14,7,19,2023-05-02 00:03:58.196,2023-05-02 00:04:01.240,3.044
+93,"Hey, whats up?",Joey,neutral,neutral,9,0,6,3,2023-05-02 00:05:22.280,2023-05-02 00:05:23.905,1.625
+94,"Nothing, Monica and I had a stupid fight.",Chandler,sadness,negative,9,1,6,3,2023-05-02 00:05:24.073,2023-05-02 00:05:26.199,2.1260000000000003
+95,"But youre still moving in together, right? Because my ad came out today.",Joey,neutral,neutral,9,2,6,3,2023-05-02 00:05:26.367,2023-05-02 00:05:29.786,3.419
+96,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",Chandler,joy,positive,9,3,6,3,2023-05-02 00:05:30.872,2023-05-02 00:05:34.291,3.419
+97,Yeah?,Joey,neutral,neutral,9,4,6,3,2023-05-02 00:05:37.211,2023-05-02 00:05:38.712,1.5010000000000001
+98,"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",Joey,neutral,neutral,9,5,6,3,2023-05-02 00:05:38.880,2023-05-02 00:05:43.508,4.628
+99,"Someone I can learn from, someone-someone whos different than me.",Joey,neutral,neutral,9,6,6,3,2023-05-02 00:05:43.676,2023-05-02 00:05:47.304,3.628
+100,And whats more different than me. A guy whos,Joey,neutral,neutral,9,7,6,3,2023-05-02 00:05:47.472,2023-05-02 00:05:51.141,3.669
+101,So where are we going next?,Ross,neutral,neutral,10,0,5,20,2023-05-02 00:06:52.412,2023-05-02 00:06:53.412,1.0
+102,This witness won't return my calls so we're gonna see if we can surprise him coming home.,Gary,neutral,neutral,10,1,5,20,2023-05-02 00:06:53.579,2023-05-02 00:06:56.915,3.3360000000000003
+103,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",Chandler,fear,negative,10,2,5,20,2023-05-02 00:06:57.125,2023-05-02 00:07:00.752,3.6270000000000002
+105,It's a witness not a perp. And no one talks like that!,Gary,anger,negative,10,4,5,20,2023-05-02 00:07:07.593,2023-05-02 00:07:10.096,2.503
+106,"Yeah, no one talks like that!",Ross,anger,negative,10,5,5,20,2023-05-02 00:07:10.096,2023-05-02 00:07:10.240,0.14400000000000002
+107,Oh what? Like your Mr. Cop!,Joey,anger,negative,10,6,5,20,2023-05-02 00:07:14.475,2023-05-02 00:07:16.237,1.762
+108,"Hey, I'm more cop than you two!",Ross,anger,negative,10,7,5,20,2023-05-02 00:07:16.237,2023-05-02 00:07:18.231,1.9940000000000002
+109,How do you figure that?,Chandler,neutral,neutral,10,8,5,20,2023-05-02 00:07:18.438,2023-05-02 00:07:20.063,1.625
+111,I guess so.,Phoebe,neutral,neutral,11,0,5,19,2023-05-02 00:05:29.287,2023-05-02 00:05:30.412,1.125
+112,Here you go. Thank you!,Rachel,neutral,neutral,11,1,5,19,2023-05-02 00:05:34.459,2023-05-02 00:05:36.879,2.42
+113,"Wait, Rach! Where's the other one?",Phoebe,neutral,neutral,11,2,5,19,2023-05-02 00:05:36.879,2023-05-02 00:05:37.038,0.159
+114,"Oh what, you-you want both of them?",Rachel,surprise,positive,11,3,5,19,2023-05-02 00:05:37.503,2023-05-02 00:05:40.172,2.669
+115,"Rachel Karen Green, where's the other earring?!",Phoebe,anger,negative,11,4,5,19,2023-05-02 00:05:40.590,2023-05-02 00:05:43.050,2.46
+116,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",Rachel,fear,negative,11,5,5,19,2023-05-02 00:05:43.259,2023-05-02 00:05:46.261,3.0020000000000002
+117,"I know it's in the apartment, but I",Rachel,neutral,neutral,11,6,5,19,2023-05-02 00:05:46.429,2023-05-02 00:05:49.973,3.544
+118,"Well, what am I going to tell Monica? She wants to wear them tonight!",Phoebe,fear,negative,11,7,5,19,2023-05-02 00:05:50.183,2023-05-02 00:05:53.518,3.3350000000000004
+119,Tell her to wear her own earrings.,Rachel,anger,negative,11,8,5,19,2023-05-02 00:05:53.728,2023-05-02 00:05:57.065,3.337
+120,These,Phoebe,neutral,neutral,11,9,5,19,2023-05-02 00:05:57.065,2023-05-02 00:05:57.211,0.14600000000000002
+122,Why not?,Phoebe,neutral,neutral,11,11,5,19,2023-05-02 00:06:04.989,2023-05-02 00:06:05.631,0.642
+123,Because I lose her stuff!,Rachel,anger,negative,11,12,5,19,2023-05-02 00:06:05.631,2023-05-02 00:06:07.379,1.748
+127,"Uh Phoebe, can I see you for a second?",Ross,neutral,neutral,12,0,7,24,2023-05-02 00:11:56.507,2023-05-02 00:11:58.179,1.6720000000000002
+128,Yeah!,Phoebe,neutral,neutral,12,1,7,24,2023-05-02 00:11:58.179,2023-05-02 00:12:00.071,1.8920000000000001
+129,Whats going on?,Phoebe,neutral,neutral,12,2,7,24,2023-05-02 00:12:05.433,2023-05-02 00:12:07.185,1.752
+130,Chandlers gone again!,Ross,surprise,negative,12,3,7,24,2023-05-02 00:12:07.185,2023-05-02 00:12:07.866,0.681
+132,Okay. You ready to push again?,Dr. Harad,neutral,neutral,13,0,5,3,2023-05-02 00:16:02.544,2023-05-02 00:16:04.504,1.9600000000000002
+133,I already had a baby. Leave me alone.,Phoebe,anger,negative,13,1,5,3,2023-05-02 00:16:04.755,2023-05-02 00:16:07.048,2.293
+134,"Okay, okay, come on, you can do it. You can do it!",Frank,joy,positive,13,2,5,3,2023-05-02 00:16:07.257,2023-05-02 00:16:10.593,3.3360000000000003
+135,Yeah!!,Frank,joy,positive,13,3,5,3,2023-05-02 00:16:18.352,2023-05-02 00:16:19.769,1.417
+136,Little Leslie is here!,Frank,joy,positive,13,4,5,3,2023-05-02 00:16:20.479,2023-05-02 00:16:22.451,1.9720000000000002
+137,We got another one!,Frank,surprise,positive,13,5,5,3,2023-05-02 00:16:22.451,2023-05-02 00:16:23.168,0.7170000000000001
+138,"Oh my God, I can't believe I have two-two children.",Frank,surprise,positive,13,6,5,3,2023-05-02 00:16:23.983,2023-05-02 00:16:27.485,3.5020000000000002
+139,How scary is that?,Frank,surprise,positive,13,7,5,3,2023-05-02 00:16:28.529,2023-05-02 00:16:30.405,1.8760000000000001
+140,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",Frank,joy,positive,13,8,5,3,2023-05-02 00:16:34.034,2023-05-02 00:16:38.579,4.545
+141,"All right, he's coming. He's coming!",Dr. Harad,joy,positive,13,9,5,3,2023-05-02 00:16:39.456,2023-05-02 00:16:41.541,2.085
+142,"Hey, where's his thing?",Frank,surprise,negative,13,10,5,3,2023-05-02 00:16:46.005,2023-05-02 00:16:47.922,1.917
+143,Chandler's a girl!,Frank,surprise,positive,13,11,5,3,2023-05-02 00:16:52.136,2023-05-02 00:16:53.678,1.542
+144,"Oh God, kindergarten flashback.",Chandler,surprise,negative,13,12,5,3,2023-05-02 00:16:55.681,2023-05-02 00:16:58.141,2.46
+145,They musta read the sonogram wrong.,Frank,surprise,negative,13,13,5,3,2023-05-02 00:16:59.476,2023-05-02 00:17:03.146,3.6700000000000004
+147,Chandler's a girl!,Frank,surprise,positive,13,15,5,3,2023-05-02 00:17:03.397,2023-05-02 00:17:05.440,2.043
+148,"Okay, keep saying it!",Chandler,joy,positive,13,16,5,3,2023-05-02 00:17:05.649,2023-05-02 00:17:07.316,1.667
+149,Am I too late?!,Alice,neutral,neutral,13,17,5,3,2023-05-02 00:17:08.777,2023-05-02 00:17:11.779,3.0020000000000002
+150,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",Frank,joy,positive,13,18,5,3,2023-05-02 00:17:11.989,2023-05-02 00:17:14.407,2.418
+151,We have our babies?,Alice,surprise,positive,13,19,5,3,2023-05-02 00:17:14.908,2023-05-02 00:17:16.075,1.167
+152,Yeah.,Frank,joy,positive,13,20,5,3,2023-05-02 00:17:16.410,2023-05-02 00:17:17.452,1.042
+153,"Oh, we have our babies.",Alice,joy,positive,13,21,5,3,2023-05-02 00:17:18.412,2023-05-02 00:17:19.579,1.167
+154,Hey Toby!,Bob,joy,positive,14,0,8,5,2023-05-02 00:16:07.675,2023-05-02 00:16:08.267,0.5920000000000001
+155,Hey Bobby.,Chandler,neutral,neutral,14,1,8,5,2023-05-02 00:16:08.267,2023-05-02 00:16:09.490,1.223
+158,"I want to talk to that bastard, see what his problem is.",Bob,anger,negative,14,4,8,5,2023-05-02 00:16:26.110,2023-05-02 00:16:28.945,2.835
+160,Toby dont.,Bob,sadness,negative,14,6,8,5,2023-05-02 00:16:35.577,2023-05-02 00:16:36.849,1.272
+161,Bob!,Chandler,sadness,negative,14,7,8,5,2023-05-02 00:16:36.849,2023-05-02 00:16:37.541,0.6920000000000001
+165,I know! I found it on the street.,Joey,joy,positive,15,1,8,7,2023-05-02 00:20:58.632,2023-05-02 00:21:00.675,2.043
+166,Are you seriousReally?! Its in such good condition.,Rachel,surprise,positive,15,2,8,7,2023-05-02 00:21:00.842,2023-05-02 00:21:04.887,4.045
+167,Yeah.,Joey,neutral,neutral,15,3,8,7,2023-05-02 00:21:02.511,2023-05-02 00:21:04.887,2.3760000000000003
+168,Wow! Whoa-whoa whats under the covers?,Rachel,surprise,negative,15,4,8,7,2023-05-02 00:21:05.055,2023-05-02 00:21:07.473,2.418
+169,I dont know.,Joey,neutral,neutral,15,5,8,7,2023-05-02 00:21:07.641,2023-05-02 00:21:09.060,1.419
+170,Its moving.,Rachel,fear,negative,15,6,8,7,2023-05-02 00:21:09.060,2023-05-02 00:21:09.217,0.157
+171,Ew.,Joey,disgust,negative,15,7,8,7,2023-05-02 00:21:09.309,2023-05-02 00:21:10.685,1.3760000000000001
+172,Its stillIts got a tail! Get it out of here! Get it out of here!!,Rachel,fear,negative,15,8,8,7,2023-05-02 00:21:10.852,2023-05-02 00:21:12.479,1.627
+173,Ooh! Ah! Okay!,Joey,fear,negative,15,9,8,7,2023-05-02 00:21:12.479,2023-05-02 00:21:13.247,0.768
+176,Oh just say it Kyle!,Ross,surprise,negative,16,2,7,5,2023-05-02 00:19:58.030,2023-05-02 00:19:59.697,1.667
+177,Were gonna give it another try.,Kyle,joy,positive,16,3,7,5,2023-05-02 00:20:02.910,2023-05-02 00:20:04.785,1.8750000000000002
+178,What about her whining and her constant need for attention?!,Phoebe,anger,negative,16,4,7,5,2023-05-02 00:20:04.953,2023-05-02 00:20:08.581,3.628
+179,Im gonna work on that.,Whitney,neutral,neutral,16,5,7,5,2023-05-02 00:20:08.749,2023-05-02 00:20:09.957,1.2080000000000002
+180,"Oh right, because youre so capable of change.",Phoebe,anger,negative,16,6,7,5,2023-05-02 00:20:10.125,2023-05-02 00:20:12.418,2.293
+181,"Yknow, he hums when he pees!",Ross,anger,negative,16,7,7,5,2023-05-02 00:20:13.921,2023-05-02 00:20:16.088,2.1670000000000003
+182,I do know.,Whitney,neutral,neutral,16,8,7,5,2023-05-02 00:20:18.050,2023-05-02 00:20:19.232,1.1820000000000002
+183,"It makes him miss the bowl, but whatever.",Ross,disgust,negative,16,9,7,5,2023-05-02 00:20:19.232,2023-05-02 00:20:22.446,3.2140000000000004
+184,Were so sorry.,Whitney,sadness,negative,16,10,7,5,2023-05-02 00:20:23.388,2023-05-02 00:20:25.348,1.9600000000000002
+185,"Thats all right, we-we dont need you. In fact, hey Im over it already.",Ross,anger,negative,16,11,7,5,2023-05-02 00:20:26.183,2023-05-02 00:20:30.019,3.8360000000000003
+186,"Yeah, and yknow what? I dont give a tiny rats ass.",Phoebe,anger,negative,16,12,7,5,2023-05-02 00:20:30.187,2023-05-02 00:20:33.397,3.2100000000000004
+187,"Yeah, were gonna go.",Kyle,neutral,neutral,16,13,7,5,2023-05-02 00:20:34.900,2023-05-02 00:20:36.734,1.834
+189,"Oh. Yknow, he hums while he does other stuff to.",Phoebe,neutral,neutral,16,15,7,5,2023-05-02 00:20:55.879,2023-05-02 00:20:58.965,3.0860000000000003
+190,"Yeah, we're better off without them.",Ross,anger,negative,16,16,7,5,2023-05-02 00:21:01.093,2023-05-02 00:21:04.470,3.3770000000000002
+191,"And yknow, even if they break up again, youd better not let him in your sad mens club!",Phoebe,anger,negative,16,17,7,5,2023-05-02 00:21:04.846,2023-05-02 00:21:09.141,4.295
+192,Divorced mens club.,Ross,sadness,negative,16,18,7,5,2023-05-02 00:21:09.309,2023-05-02 00:21:12.603,3.294
+194,Why isnt that valet back with my Porsche?,Joey,anger,negative,17,0,6,5,2023-05-02 00:14:50.514,2023-05-02 00:14:54.183,3.669
+195,Maybe because youve got the keys?,Passerby,anger,negative,17,1,6,5,2023-05-02 00:14:55.603,2023-05-02 00:14:57.520,1.917
+197,This is totally your fault!,Rachel,anger,negative,17,2,6,5,2023-05-02 00:15:03.110,2023-05-02 00:15:04.582,1.4720000000000002
+198,My fault?! You threatened the judge!,Ross,anger,negative,17,3,6,5,2023-05-02 00:15:04.582,2023-05-02 00:15:07.079,2.4970000000000003
+199,"Well, you ripped the paper out of the court reporters machine!!",Rachel,anger,negative,17,4,6,5,2023-05-02 00:15:07.197,2023-05-02 00:15:10.116,2.919
+206,Phoebe!,Monica,neutral,neutral,18,0,6,22,2023-05-02 00:16:17.351,2023-05-02 00:16:18.102,0.751
+207,Yeah?,Phoebe,neutral,neutral,18,1,6,22,2023-05-02 00:16:18.102,2023-05-02 00:16:18.406,0.304
+208,Have you seen Chandler?!,Monica,neutral,neutral,18,2,6,22,2023-05-02 00:16:18.519,2023-05-02 00:16:19.401,0.882
+209,No! Why?,Phoebe,neutral,neutral,18,3,6,22,2023-05-02 00:16:19.401,2023-05-02 00:16:20.205,0.804
+211,I know!,Monica,fear,negative,18,5,6,22,2023-05-02 00:16:26.944,2023-05-02 00:16:27.320,0.376
+212,How bad is this?,Monica,fear,negative,18,6,6,22,2023-05-02 00:16:27.320,2023-05-02 00:16:28.826,1.506
+214,"Well for the regular guy, its bad, but Chandler, Oh dear God!",Phoebe,fear,negative,18,7,6,22,2023-05-02 00:16:28.946,2023-05-02 00:16:33.074,4.128
+215,I know! I know! And he totally freaked out and I cant find him anywhere!,Monica,fear,negative,18,8,6,22,2023-05-02 00:16:34.660,2023-05-02 00:16:37.662,3.0020000000000002
+216,What are you gonna do?,Phoebe,neutral,neutral,18,9,6,22,2023-05-02 00:16:37.830,2023-05-02 00:16:38.831,1.0010000000000001
+217,"Well, Im never gonna listen to you again, thats for sure!",Monica,anger,negative,18,10,6,22,2023-05-02 00:16:38.831,2023-05-02 00:16:41.285,2.454
+218,"""Yknow, harm can it do if you go and put your name down?""",Monica,neutral,neutral,18,11,6,22,2023-05-02 00:16:41.375,2023-05-02 00:16:44.669,3.294
+219,Rachel said that!,Phoebe,surprise,negative,18,12,6,22,2023-05-02 00:16:45.546,2023-05-02 00:16:46.728,1.1820000000000002
+220,Well Rachels not here!,Monica,anger,negative,18,13,6,22,2023-05-02 00:16:46.728,2023-05-02 00:16:47.766,1.038
+221,"Come on, come on.",Ross,neutral,neutral,19,0,1,23,2023-05-02 00:14:15.980,2023-05-02 00:14:17.730,1.75
+222,"Damnit, damnit, damnit, damnit.",Ross,anger,negative,19,1,1,23,2023-05-02 00:14:20.234,2023-05-02 00:14:23.156,2.922
+223,This is all your fault.,Ross,anger,negative,19,2,1,23,2023-05-02 00:14:23.156,2023-05-02 00:14:24.118,0.9620000000000001
+224,"This is supposed to be, like, the greatest day of my life, y'know?",Ross,anger,negative,19,3,1,23,2023-05-02 00:14:24.280,2023-05-02 00:14:26.948,2.668
+226,The woman I love is having a baby today. I've been waiting for this just as much as you have.,Susan,anger,negative,19,5,1,23,2023-05-02 00:14:32.329,2023-05-02 00:14:35.665,3.3360000000000003
+227,"No no no, believe me.",Ross,anger,negative,19,6,1,23,2023-05-02 00:14:35.833,2023-05-02 00:14:37.095,1.262
+228,"No one has been waiting for this as much as I have, ok?",Ross,anger,negative,19,7,1,23,2023-05-02 00:14:37.095,2023-05-02 00:14:39.055,1.9600000000000002
+229,And you know what the funny thing is?,Ross,neutral,neutral,19,8,1,23,2023-05-02 00:14:39.169,2023-05-02 00:14:40.879,1.7100000000000002
+230,"When this day is over, you get to go home with the baby, ok?",Ross,anger,negative,19,9,1,23,2023-05-02 00:14:41.046,2023-05-02 00:14:43.631,2.585
+231,Where does that leave me?,Ross,sadness,negative,19,10,1,23,2023-05-02 00:14:43.799,2023-05-02 00:14:44.551,0.752
+232,You get to be the baby's father.,Susan,neutral,neutral,19,11,1,23,2023-05-02 00:14:44.551,2023-05-02 00:14:46.275,1.7240000000000002
+233,Everyone knows who you are.,Susan,neutral,neutral,19,12,1,23,2023-05-02 00:14:46.385,2023-05-02 00:14:47.517,1.1320000000000001
+234,Who am I?,Susan,anger,negative,19,13,1,23,2023-05-02 00:14:47.517,2023-05-02 00:14:50.183,2.6660000000000004
+235,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",Susan,sadness,negative,19,14,1,23,2023-05-02 00:14:50.306,2023-05-02 00:14:52.599,2.293
+236,Every day is Lesbian Lover Day.,Ross,neutral,neutral,19,15,1,23,2023-05-02 00:14:52.766,2023-05-02 00:14:55.226,2.46
+237,This is so great.,Phoebe,joy,positive,19,16,1,23,2023-05-02 00:14:58.063,2023-05-02 00:14:59.814,1.7510000000000001
+238,You wanna explain that?,Ross,neutral,neutral,19,17,1,23,2023-05-02 00:15:03.986,2023-05-02 00:15:05.570,1.584
+241,And it's not even born yet.,Phoebe,sadness,negative,19,20,1,23,2023-05-02 00:15:25.424,2023-05-02 00:15:27.842,2.418
+242,"It's just, it's just the luckiest baby in the whole world.",Phoebe,joy,positive,19,21,1,23,2023-05-02 00:15:28.010,2023-05-02 00:15:30.553,2.543
+243,"I'm sorry, you were fighting.",Phoebe,sadness,negative,19,22,1,23,2023-05-02 00:15:33.349,2023-05-02 00:15:35.433,2.084
+245,"Hi, how are you doing Kelly?",Monica,neutral,neutral,20,1,5,10,2023-05-02 00:21:37.879,2023-05-02 00:21:41.465,3.5860000000000003
+246,"I'm doing just fine! God, Tiffany, you smell so great!",Rachel,joy,positive,20,2,5,10,2023-05-02 00:21:41.633,2023-05-02 00:21:44.385,2.7520000000000002
+248,"Oh, y'know Joey, you are sick!",Rachel,disgust,negative,20,4,5,10,2023-05-02 00:21:55.230,2023-05-02 00:21:57.662,2.432
+249,This is disgusting!,Monica,disgust,negative,20,5,5,10,2023-05-02 00:21:57.662,2023-05-02 00:21:58.196,0.534
+250,I'm not reading this!,Rachel,disgust,negative,20,6,5,10,2023-05-02 00:21:58.317,2023-05-02 00:22:00.109,1.792
+251,What?! Wait-wait-wait! The handsome man was about to enter!!,Joey,surprise,negative,20,7,5,10,2023-05-02 00:22:00.277,2023-05-02 00:22:04.488,4.211
+252,"All right, I'll give you this, Mr. Peanut is a better dresser.",Joey,neutral,neutral,21,0,1,20,2023-05-02 00:21:27.119,2023-05-02 00:21:30.621,3.5020000000000002
+253,"I mean he's got the monocle, he's got the top hat...",Joey,neutral,neutral,21,1,1,20,2023-05-02 00:21:30.789,2023-05-02 00:21:33.833,3.044
+254,You know he's gay?,Phoebe,neutral,neutral,21,2,1,20,2023-05-02 00:21:34.001,2023-05-02 00:21:35.876,1.8750000000000002
+255,I just wanna clarify this: are you outing Mr. Peanut?,Ross,neutral,neutral,21,3,1,20,2023-05-02 00:21:38.964,2023-05-02 00:21:43.092,4.128
+257,Hi. Hi.,All,neutral,neutral,21,5,1,20,2023-05-02 00:21:49.933,2023-05-02 00:21:51.142,1.209
+258,What are you doing here?,Chandler,surprise,positive,21,6,1,20,2023-05-02 00:21:51.310,2023-05-02 00:21:53.728,2.418
+259,"Well, what?",Chandler,neutral,neutral,22,0,1,4,2023-05-02 00:17:41.977,2023-05-02 00:17:42.689,0.7120000000000001
+260,What?,Chandler,neutral,neutral,22,1,1,4,2023-05-02 00:17:42.689,2023-05-02 00:17:43.041,0.35200000000000004
+261,What is it?,Chandler,neutral,neutral,22,2,1,4,2023-05-02 00:17:43.041,2023-05-02 00:17:43.563,0.522
+262,That she left you?,Chandler,surprise,negative,22,3,1,4,2023-05-02 00:17:43.563,2023-05-02 00:17:44.365,0.802
+263,That she likes women?,Chandler,neutral,neutral,22,4,1,4,2023-05-02 00:17:44.365,2023-05-02 00:17:44.908,0.543
+264,That she left you for another woman that likes women?,Chandler,neutral,neutral,22,5,1,4,2023-05-02 00:17:44.938,2023-05-02 00:17:47.106,2.168
+265,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",Ross,anger,negative,22,6,1,4,2023-05-02 00:17:47.274,2023-05-02 00:17:51.652,4.378
+266,Then what?,Chandler,neutral,neutral,22,7,1,4,2023-05-02 00:17:55.282,2023-05-02 00:17:56.365,1.083
+267,My first time with Carol was...,Ross,neutral,neutral,22,8,1,4,2023-05-02 00:17:57.493,2023-05-02 00:18:00.161,2.668
+268,What?,Joey,neutral,neutral,22,9,1,4,2023-05-02 00:18:03.624,2023-05-02 00:18:05.041,1.417
+269,It was my,Ross,neutral,neutral,22,10,1,4,2023-05-02 00:18:07.586,2023-05-02 00:18:10.379,2.793
+270,With Carol?  Oh.,Joey,surprise,negative,22,11,1,4,2023-05-02 00:18:13.008,2023-05-02 00:18:14.842,1.834
+271,"So in your whole life, you've only been with oneoh.",Chandler,surprise,negative,22,12,1,4,2023-05-02 00:18:21.683,2023-05-02 00:18:24.519,2.8360000000000003
+273,Hi. Where is everybody?,Ross,neutral,neutral,23,0,3,6,2023-05-02 00:17:21.123,2023-05-02 00:17:22.790,1.667
+274,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",Phoebe,sadness,negative,23,1,3,6,2023-05-02 00:17:22.958,2023-05-02 00:17:27.128,4.17
+276,Oh no! Why?,Phoebe,surprise,negative,23,3,3,6,2023-05-02 00:17:32.301,2023-05-02 00:17:34.135,1.834
+279,Im an idiot.,Ross,disgust,negative,23,6,3,6,2023-05-02 00:17:59.369,2023-05-02 00:18:00.661,1.292
+282,"Well, now I do!!",Ross,surprise,negative,23,9,3,6,2023-05-02 00:18:29.858,2023-05-02 00:18:31.651,1.7930000000000001
+283,Im sorry.,Phoebe,sadness,negative,23,10,3,6,2023-05-02 00:18:33.529,2023-05-02 00:18:34.570,1.0410000000000001
+284,Seven years.,Ross,sadness,negative,23,11,3,6,2023-05-02 00:18:37.199,2023-05-02 00:18:38.866,1.667
+286,"Aw, God Ross. Oh.",Phoebe,sadness,negative,23,13,3,6,2023-05-02 00:18:50.712,2023-05-02 00:18:52.046,1.334
+287,Ill do it.,Cookie,neutral,neutral,24,0,3,11,2023-05-02 00:19:49.938,2023-05-02 00:19:51.690,1.752
+288,No you wont.,Joey,neutral,neutral,24,1,3,11,2023-05-02 00:19:51.690,2023-05-02 00:19:51.869,0.17900000000000002
+291,"Okay, absolutely!",Chandler,joy,positive,24,4,3,11,2023-05-02 00:20:00.908,2023-05-02 00:20:02.180,1.272
+292,All right.,Joey,neutral,neutral,24,5,3,11,2023-05-02 00:20:02.180,2023-05-02 00:20:02.931,0.751
+293,Youve got it.,Chandler,neutral,neutral,24,6,3,11,2023-05-02 00:20:02.931,2023-05-02 00:20:03.875,0.9440000000000001
+294,"Cookie, now you can punch him!",Joey,anger,negative,24,7,3,11,2023-05-02 00:20:13.545,2023-05-02 00:20:15.089,1.544
+295,What?!,Chandler,surprise,negative,24,8,3,11,2023-05-02 00:20:15.089,2023-05-02 00:20:15.511,0.42200000000000004
+296,"All right, that's it, I quit.",Phoebe,anger,negative,25,0,2,1,2023-05-02 00:13:25.095,2023-05-02 00:13:26.555,1.4600000000000002
+297,What? I didn't say anything.,Monica,surprise,negative,25,1,2,1,2023-05-02 00:13:26.555,2023-05-02 00:13:28.453,1.8980000000000001
+298,"Yeah, but this  isn't the face of a person who trusts a person.",Phoebe,anger,negative,25,2,2,1,2023-05-02 00:13:28.557,2023-05-02 00:13:32.310,3.753
+302,Julie.,Monica,neutral,neutral,26,0,2,2,2023-05-02 00:10:42.642,2023-05-02 00:10:43.185,0.543
+303,What?!,Rachel,surprise,negative,26,1,2,2,2023-05-02 00:10:43.185,2023-05-02 00:10:43.747,0.562
+304,Jody!,Monica,surprise,negative,26,2,2,2,2023-05-02 00:10:43.747,2023-05-02 00:10:45.255,1.508
+305,You were with Julie?,Rachel,neutral,neutral,26,3,2,2,2023-05-02 00:10:46.812,2023-05-02 00:10:50.523,3.7110000000000003
+308,Oh. Oh my God.,Rachel,surprise,negative,26,6,2,2,2023-05-02 00:11:09.669,2023-05-02 00:11:11.336,1.667
+310,"Yeah, right.  Sure!",Rachel,anger,negative,26,8,2,2,2023-05-02 00:11:20.012,2023-05-02 00:11:21.805,1.7930000000000001
+311,"Really, Rachel, I was thinking of you the whole time.",Monica,sadness,negative,26,9,2,2,2023-05-02 00:11:21.972,2023-05-02 00:11:24.849,2.8770000000000002
+312,"Look, I'm sorry, all right.",Monica,sadness,negative,26,10,2,2,2023-05-02 00:11:27.853,2023-05-02 00:11:30.865,3.012
+313,I never meant for you to find out!,Monica,sadness,negative,26,11,2,2,2023-05-02 00:11:30.865,2023-05-02 00:11:32.163,1.298
+314,"Oh, please, you wanted to get caught.",Rachel,anger,negative,26,12,2,2,2023-05-02 00:11:32.274,2023-05-02 00:11:35.985,3.7110000000000003
+315,That is not true!,Monica,anger,negative,26,13,2,2,2023-05-02 00:11:36.445,2023-05-02 00:11:37.696,1.2510000000000001
+316,"Oh, so you just sort of happened to leave it in here?",Rachel,anger,negative,26,14,2,2,2023-05-02 00:11:37.905,2023-05-02 00:11:40.323,2.418
+317,Did it ever occur to you that I might just be that stupid?,Monica,anger,negative,26,15,2,2,2023-05-02 00:11:41.409,2023-05-02 00:11:45.120,3.7110000000000003
+320,Yeah!,Monica,surprise,negative,27,0,8,1,2023-05-02 00:01:28.088,2023-05-02 00:01:29.505,1.417
+321,I cant say.,Phoebe,neutral,neutral,27,1,8,1,2023-05-02 00:01:30.173,2023-05-02 00:01:31.548,1.375
+322,Why?!,Monica,surprise,negative,27,2,8,1,2023-05-02 00:01:32.133,2023-05-02 00:01:32.968,0.8350000000000001
+323,Why not?,Chandler,sadness,negative,27,3,8,1,2023-05-02 00:01:32.968,2023-05-02 00:01:33.738,0.77
+324,I cant say because hes famous.,Phoebe,neutral,neutral,27,4,8,1,2023-05-02 00:01:34.344,2023-05-02 00:01:37.596,3.2520000000000002
+325,"Oh my God, who is it?!",Rachel,surprise,negative,27,5,8,1,2023-05-02 00:01:38.515,2023-05-02 00:01:40.182,1.667
+326,"Phoebe, come on, you have to tell us.",Monica,anger,negative,27,6,8,1,2023-05-02 00:01:41.976,2023-05-02 00:01:44.103,2.1270000000000002
+328,As in Barbara Streisands husband James Brolin?,Chandler,surprise,negative,27,8,8,1,2023-05-02 00:01:52.195,2023-05-02 00:01:55.072,2.8770000000000002
+329,What?! Well he never said that to me!,Phoebe,surprise,negative,27,9,8,1,2023-05-02 00:01:55.782,2023-05-02 00:01:59.701,3.919
+330,In,Ross,neutral,neutral,28,0,5,8,2023-05-02 00:04:00.865,2023-05-02 00:04:02.991,2.1260000000000003
+331,"Oh, this life! Oh okay no, Chandler's is worse.",Phoebe,sadness,negative,28,1,5,8,2023-05-02 00:04:04.118,2023-05-02 00:04:06.995,2.8770000000000002
+333,Of course you don't sweetie. You're brand new.,Phoebe,neutral,neutral,28,3,5,8,2023-05-02 00:04:14.963,2023-05-02 00:04:17.798,2.835
+334,I know Monica's worst Thanksgiving.,Rachel,neutral,neutral,28,4,5,8,2023-05-02 00:04:19.968,2023-05-02 00:04:22.010,2.0420000000000003
+335,"Oh, let's not tell this story.",Monica,sadness,negative,28,5,5,8,2023-05-02 00:04:22.178,2023-05-02 00:04:23.780,1.602
+336,"Oh, come on!",All,sadness,negative,28,6,5,8,2023-05-02 00:04:23.780,2023-05-02 00:04:24.782,1.002
+338,What?! Joey got a turkey stuck on his head?!,Rachel,surprise,positive,28,8,5,8,2023-05-02 00:04:31.229,2023-05-02 00:04:35.524,4.295
+339,"Hey, it's not like it sounds.",Joey,neutral,neutral,28,9,5,8,2023-05-02 00:04:35.692,2023-05-02 00:04:36.485,0.793
+340,It's,Chandler,neutral,neutral,28,10,5,8,2023-05-02 00:04:36.485,2023-05-02 00:04:37.176,0.6910000000000001
+341,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",Monica,anger,negative,29,0,1,15,2023-05-02 00:15:52.368,2023-05-02 00:15:56.496,4.128
+342,Who was that?,Rachel,neutral,neutral,29,1,1,15,2023-05-02 00:16:03.587,2023-05-02 00:16:05.213,1.6260000000000001
+343,Wendy bailed. I have no waitress.,Monica,sadness,negative,29,2,1,15,2023-05-02 00:16:07.049,2023-05-02 00:16:10.218,3.169
+344,Oh... that's too bad. Bye bye.,Rachel,sadness,negative,29,3,1,15,2023-05-02 00:16:11.971,2023-05-02 00:16:15.974,4.003
+345,Ten dollars an hour.,Monica,neutral,neutral,29,4,1,15,2023-05-02 00:16:16.976,2023-05-02 00:16:18.068,1.092
+346,No.,Rachel,neutral,neutral,29,5,1,15,2023-05-02 00:16:18.068,2023-05-02 00:16:18.620,0.552
+347,Twelve dollars an hour.,Monica,neutral,neutral,29,6,1,15,2023-05-02 00:16:18.936,2023-05-02 00:16:20.061,1.125
+348,"Mon. I wish I could, but I've made plans to walk around.",Rachel,neutral,neutral,29,7,1,15,2023-05-02 00:16:20.521,2023-05-02 00:16:23.856,3.3350000000000004
+349,"You know, Rachel, when you ran out of your wedding, I was there for you.",Monica,anger,negative,29,8,1,15,2023-05-02 00:16:25.792,2023-05-02 00:16:28.319,2.527
+351,Done.,Rachel,joy,positive,29,10,1,15,2023-05-02 00:16:36.370,2023-05-02 00:16:37.662,1.292
+352,"The reactors gonna blow in three seconds, were never gonna make it!",Joey,fear,negative,30,0,6,20,2023-05-02 00:00:05.005,2023-05-02 00:00:08.549,3.544
+353,Youve got to get out of here! Save yourself!,Phoebe,fear,negative,30,1,6,20,2023-05-02 00:00:08.717,2023-05-02 00:00:11.802,3.0850000000000004
+354,No! I wont leave you!,Joey,fear,negative,30,2,6,20,2023-05-02 00:00:13.555,2023-05-02 00:00:15.014,1.459
+355,"Dont worry about me, Im a robot! Im just a machine!!",Phoebe,sadness,negative,30,3,6,20,2023-05-02 00:00:15.181,2023-05-02 00:00:20.060,4.8790000000000004
+356,No youre not! Not to me!,Joey,anger,negative,30,4,6,20,2023-05-02 00:00:21.521,2023-05-02 00:00:23.523,2.0020000000000002
+357,Oh my God.,Phoebe,surprise,positive,30,5,6,20,2023-05-02 00:00:23.523,2023-05-02 00:00:25.329,1.806
+358,What?,Joey,neutral,neutral,30,6,6,20,2023-05-02 00:00:25.442,2023-05-02 00:00:26.124,0.682
+359,I am,Phoebe,neutral,neutral,30,7,6,20,2023-05-02 00:00:26.124,2023-05-02 00:00:28.664,2.54
+361,"No, I mean I was really acting my ass off.",Phoebe,joy,positive,30,9,6,20,2023-05-02 00:00:31.031,2023-05-02 00:00:35.159,4.128
+362,"Yeah, I thought I was pretty good too.",Joey,joy,positive,30,10,6,20,2023-05-02 00:00:36.327,2023-05-02 00:00:38.078,1.7510000000000001
+363,"Oh yeah, youre solid. Yeah, youre just no me.",Phoebe,neutral,neutral,30,11,6,20,2023-05-02 00:00:38.246,2023-05-02 00:00:40.789,2.543
+364,Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,Joey,neutral,neutral,30,12,6,20,2023-05-02 00:00:42.500,2023-05-02 00:00:46.962,4.462000000000001
+365,Fine!,Phoebe,anger,negative,30,13,6,20,2023-05-02 00:00:47.547,2023-05-02 00:00:48.219,0.672
+366,Ill do it without you!,Phoebe,anger,negative,30,14,6,20,2023-05-02 00:00:48.219,2023-05-02 00:00:50.279,2.06
+367,I dont need you or anybody else!,Phoebe,anger,negative,30,15,6,20,2023-05-02 00:00:50.800,2023-05-02 00:00:53.552,2.7520000000000002
+368,Im gonna make it on my own!,Phoebe,anger,negative,30,16,6,20,2023-05-02 00:00:53.803,2023-05-02 00:00:56.346,2.543
+369,Youll see!!,Phoebe,anger,negative,30,17,6,20,2023-05-02 00:00:57.682,2023-05-02 00:01:00.435,2.753
+370,Youll,Phoebe,neutral,neutral,30,18,6,20,2023-05-02 00:01:00.435,2023-05-02 00:01:00.574,0.139
+371,I can't believe that Ross is gone. It is just so sad.,Kori,sadness,negative,31,0,9,17,2023-05-02 00:22:08.315,2023-05-02 00:22:11.902,3.587
+372,I didn't know Ross and you were so close.,Chandler,surprise,negative,31,1,9,17,2023-05-02 00:22:12.110,2023-05-02 00:22:14.154,2.044
+374,I'm sure that would mean a lot to him.,Chandler,neutral,neutral,31,3,9,17,2023-05-02 00:22:22.120,2023-05-02 00:22:25.749,3.6290000000000004
+377,But you didn't!,Ross,joy,positive,31,6,9,17,2023-05-02 00:22:39.971,2023-05-02 00:22:42.265,2.294
+378,I'm still alive!!,Ross,joy,positive,31,7,9,17,2023-05-02 00:22:44.059,2023-05-02 00:22:45.852,1.7930000000000001
+379,"Kori, I know this is a big surprise for you.",Ross,joy,positive,31,8,9,17,2023-05-02 00:22:47.103,2023-05-02 00:22:49.606,2.503
+380,It's a long story but the things    you just said really made my day!,Ross,joy,positive,31,9,9,17,2023-05-02 00:22:49.815,2023-05-02 00:22:53.944,4.1290000000000004
+382,"You sick freak, who does that? I can't believe I had a crush on    you!",Kori,anger,negative,31,11,9,17,2023-05-02 00:22:59.825,2023-05-02 00:23:04.120,4.295
+384,Well do a quick check.,Dr. Long,neutral,neutral,32,0,8,22,2023-05-02 00:11:13.702,2023-05-02 00:11:15.214,1.512
+385,Okay.,Rachel,neutral,neutral,32,1,8,22,2023-05-02 00:11:15.214,2023-05-02 00:11:16.092,0.878
+386,"So, eight days late huh?",Dr. Long,surprise,positive,32,2,8,22,2023-05-02 00:11:16.247,2023-05-02 00:11:18.208,1.961
+387,Yeah.,Rachel,neutral,neutral,32,3,8,22,2023-05-02 00:11:18.208,2023-05-02 00:11:18.433,0.225
+388,You must be a little uncomfortable.,Dr. Long,neutral,neutral,32,4,8,22,2023-05-02 00:11:18.541,2023-05-02 00:11:20.042,1.5010000000000001
+389,"Eh, just a tad.",Rachel,neutral,neutral,32,5,8,22,2023-05-02 00:11:20.209,2023-05-02 00:11:22.837,2.628
+390,"Youre about 80 percent effaced, so youre on your way.",Dr. Long,neutral,neutral,32,6,8,22,2023-05-02 00:11:23.712,2023-05-02 00:11:26.524,2.8120000000000003
+391,It still could last a little while longer.,Dr. Long,neutral,neutral,32,7,8,22,2023-05-02 00:11:26.524,2023-05-02 00:11:28.769,2.245
+395,"Well, we are ready to try anything.",Rachel,neutral,neutral,32,11,8,22,2023-05-02 00:11:43.023,2023-05-02 00:11:45.155,2.132
+396,"Okay, theres an herbal tea you can drink.",Dr. Long,neutral,neutral,32,12,8,22,2023-05-02 00:11:45.155,2023-05-02 00:11:48.123,2.968
+397,Okay.,Rachel,neutral,neutral,32,13,8,22,2023-05-02 00:11:48.237,2023-05-02 00:11:49.280,1.0430000000000001
+398,What is wrong with Emma?,Chandler,sadness,negative,33,0,9,2,2023-05-02 00:13:18.339,2023-05-02 00:13:20.507,2.168
+399,"Oh she misunderstood, she thought she was moving to Tulsa.",Monica,neutral,neutral,33,1,9,2,2023-05-02 00:13:18.339,2023-05-02 00:13:22.634,4.295
+400,Anytime you're ready.,Carol,neutral,neutral,34,0,1,9,2023-05-02 00:14:17.565,2023-05-02 00:14:18.940,1.375
+401,"Ok, ok, here we go.",Ross,neutral,neutral,34,1,1,9,2023-05-02 00:14:19.942,2023-05-02 00:14:23.987,4.045
+402,"Ok, where am I talking to, here?",Ross,neutral,neutral,34,2,1,9,2023-05-02 00:14:28.409,2023-05-02 00:14:32.453,4.0440000000000005
+403,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",Ross,neutral,neutral,34,3,1,9,2023-05-02 00:14:32.621,2023-05-02 00:14:37.417,4.796
+404,Just aim for the bump.,Carol,neutral,neutral,34,4,1,9,2023-05-02 00:14:38.335,2023-05-02 00:14:39.961,1.6260000000000001
+406,"You know, I, you know, can't do this.",Ross,fear,negative,34,6,1,9,2023-05-02 00:14:54.101,2023-05-02 00:14:56.853,2.7520000000000002
+407,"Uh, this is too weird.",Ross,disgust,negative,34,7,1,9,2023-05-02 00:14:57.021,2023-05-02 00:14:59.023,2.0020000000000002
+408,I feel stupid.,Ross,sadness,negative,34,8,1,9,2023-05-02 00:14:59.023,2023-05-02 00:15:00.168,1.145
+409,"So don't do it, it's fine. You don't have to do it just because Susan does it.",Carol,neutral,neutral,34,9,1,9,2023-05-02 00:15:01.108,2023-05-02 00:15:05.904,4.796
+410,"Hello, baby. Hello, hello.",Ross,joy,positive,34,10,1,9,2023-05-02 00:15:06.071,2023-05-02 00:15:10.742,4.671
+412,"Oh, hi. Its Mark.",Mark,neutral,neutral,35,0,3,12,2023-05-02 00:04:18.258,2023-05-02 00:04:20.384,2.1260000000000003
+418,Easy. Easy. You have to go to the hospital. Okay?,Ross,fear,negative,36,0,3,21,2023-05-02 00:15:26.342,2023-05-02 00:15:30.345,4.003
+419,"Okay, I do.",Rachel,neutral,neutral,36,1,3,21,2023-05-02 00:15:30.512,2023-05-02 00:15:31.324,0.812
+420,Okay.,Ross,neutral,neutral,36,2,3,21,2023-05-02 00:15:31.324,2023-05-02 00:15:31.706,0.382
+421,I really do.,Rachel,neutral,neutral,36,3,3,21,2023-05-02 00:15:31.706,2023-05-02 00:15:32.541,0.8350000000000001
+422,"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",Ross,neutral,neutral,36,4,3,21,2023-05-02 00:15:32.681,2023-05-02 00:15:35.141,2.46
+423,"Okay. Oh wait, wait-wait, youre not gonna come with me?",Rachel,sadness,negative,36,5,3,21,2023-05-02 00:15:35.309,2023-05-02 00:15:37.135,1.826
+424,Of course I am. I just have to make a call.,Ross,surprise,positive,36,6,3,21,2023-05-02 00:15:40.856,2023-05-02 00:15:45.109,4.253
+425,Okay.,Rachel,neutral,neutral,36,7,3,21,2023-05-02 00:15:45.319,2023-05-02 00:15:46.154,0.8350000000000001
+426,Okay?,Ross,neutral,neutral,36,8,3,21,2023-05-02 00:15:46.154,2023-05-02 00:15:46.454,0.30000000000000004
+428,"What?! I wh-, whats wrong?",Ross,fear,negative,36,10,3,21,2023-05-02 00:15:53.535,2023-05-02 00:15:54.661,1.1260000000000001
+429,"Im sorry, I just cant go to the hospital lookin like this.",Rachel,disgust,negative,36,11,3,21,2023-05-02 00:15:54.828,2023-05-02 00:15:58.498,3.6700000000000004
+431,"Run! Run you crazy, rich freak!",Chandler,fear,negative,37,1,3,24,2023-05-02 00:22:03.488,2023-05-02 00:22:06.157,2.669
+432,"Oh, I cant watch this.",Rachel,fear,negative,37,2,3,24,2023-05-02 00:22:07.826,2023-05-02 00:22:09.076,1.25
+433,"Check it out, hes winning!  Petes winning!",Joey,surprise,positive,37,3,3,24,2023-05-02 00:22:09.369,2023-05-02 00:22:10.995,1.6260000000000001
+434,Really?!,Monica,surprise,positive,37,4,3,24,2023-05-02 00:22:11.246,2023-05-02 00:22:12.838,1.592
+435,No-o-o!!,Joey,fear,negative,37,5,3,24,2023-05-02 00:22:12.838,2023-05-02 00:22:13.295,0.457
+436,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",TV Announcer,fear,negative,37,6,3,24,2023-05-02 00:22:15.751,2023-05-02 00:22:20.171,4.42
+437,Oh! Oh!,All,disgust,negative,37,7,3,24,2023-05-02 00:22:20.422,2023-05-02 00:22:21.672,1.25
+438,"Wait, if thats his favourite area, why is he being so mean to it?",Phoebe,surprise,negative,37,8,3,24,2023-05-02 00:22:21.961,2023-05-02 00:22:25.926,3.9650000000000003
+439,"Well, this is ironic.",Ross,surprise,negative,37,9,3,24,2023-05-02 00:22:26.595,2023-05-02 00:22:27.845,1.25
+441,"Dude, you dont have to brag! We got nothing here!!",Joey,anger,negative,38,0,4,2,2023-05-02 00:21:29.705,2023-05-02 00:21:33.165,3.4600000000000004
+442,Should we tell Rachel theres an empty private room right next door to hers?,Chandler,neutral,neutral,39,0,8,24,2023-05-02 00:01:07.013,2023-05-02 00:01:10.808,3.7950000000000004
+443,"We could, or we can have sex in it.",Monica,joy,positive,39,1,8,24,2023-05-02 00:01:11.851,2023-05-02 00:01:15.104,3.253
+444,"Well let me think about that, while I remove my pants!",Chandler,joy,positive,39,2,8,24,2023-05-02 00:01:16.439,2023-05-02 00:01:19.484,3.0450000000000004
+445,I thought I was a complete idiot.,Rachel,surprise,positive,40,0,8,5,2023-05-02 00:06:37.605,2023-05-02 00:06:40.857,3.2520000000000002
+447,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",Rachel,disgust,negative,40,2,8,5,2023-05-02 00:06:45.822,2023-05-02 00:06:50.575,4.753
+448,I said no.,Joey,neutral,neutral,40,3,8,5,2023-05-02 00:06:48.366,2023-05-02 00:06:50.008,1.6420000000000001
+449,What?!,Rachel,surprise,positive,40,4,8,5,2023-05-02 00:06:50.008,2023-05-02 00:06:50.628,0.62
+451,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",Rachel,anger,negative,40,6,8,5,2023-05-02 00:06:56.874,2023-05-02 00:06:58.750,1.8760000000000001
+453,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",Rachel,fear,negative,40,8,8,5,2023-05-02 00:07:12.598,2023-05-02 00:07:14.851,2.253
+454,"Rach look, I really dont think thats such a great",Joey,sadness,negative,40,9,8,5,2023-05-02 00:07:14.851,2023-05-02 00:07:16.450,1.5990000000000002
+455,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",Rachel,joy,positive,40,10,8,5,2023-05-02 00:07:16.561,2023-05-02 00:07:21.273,4.712000000000001
+457,Thats okay.,Ross,neutral,neutral,41,1,4,16,2023-05-02 00:18:12.966,2023-05-02 00:18:14.467,1.5010000000000001
+459,Ah! Ah! I forgot my jacket!,Ross,anger,negative,42,0,5,1,2023-05-02 00:21:09.768,2023-05-02 00:21:11.769,2.0010000000000003
+461,You tell them to wait!,Ross,anger,negative,42,1,5,1,2023-05-02 00:21:11.937,2023-05-02 00:21:14.230,2.293
+462,Okay. Wait! Wait!,Rachel,neutral,neutral,42,2,5,1,2023-05-02 00:21:13.230,2023-05-02 00:21:16.482,3.2520000000000002
+463,Emily.,Ross,neutral,neutral,42,3,5,1,2023-05-02 00:21:21.154,2023-05-02 00:21:23.155,2.0010000000000003
+465,Hey. Call me when you get there. Okay?,Monica,neutral,neutral,43,0,6,6,2023-05-02 00:19:41.346,2023-05-02 00:19:43.431,2.085
+466,Okay.,Rachel,neutral,neutral,43,1,6,6,2023-05-02 00:19:42.431,2023-05-02 00:19:43.431,1.0
+467,I know. You're the guy who wouldn't chip in for the handyman.,The Hot Girl,sadness,negative,44,0,5,17,2023-05-02 00:13:12.416,2023-05-02 00:13:15.835,3.419
+468,Nevermind!,Ross,anger,negative,44,1,5,17,2023-05-02 00:13:17.630,2023-05-02 00:13:18.922,1.292
+471,Jen.,The Hot Girl,neutral,neutral,44,3,5,17,2023-05-02 00:13:33.229,2023-05-02 00:13:34.854,1.625
+473,Sure! That would be nice.,Jen,joy,positive,44,5,5,17,2023-05-02 00:13:45.366,2023-05-02 00:13:47.116,1.75
+474,Umm?,Ross,neutral,neutral,44,6,5,17,2023-05-02 00:13:47.827,2023-05-02 00:13:48.868,1.0410000000000001
+475,Oh! My number is on there.  Give me a call.,Jen,joy,positive,44,7,5,17,2023-05-02 00:13:49.537,2023-05-02 00:13:52.622,3.0850000000000004
+476,I will give you a call.,Ross,neutral,neutral,44,8,5,17,2023-05-02 00:13:52.832,2023-05-02 00:13:54.916,2.084
+477,I'll see you later.,Jen,neutral,neutral,44,9,5,17,2023-05-02 00:13:55.084,2023-05-02 00:13:56.046,0.9620000000000001
+478,Okay!,Ross,joy,positive,44,10,5,17,2023-05-02 00:13:56.046,2023-05-02 00:13:57.005,0.9590000000000001
+479,I forgot my paper.,Jen,neutral,neutral,44,11,5,17,2023-05-02 00:14:02.132,2023-05-02 00:14:04.259,2.1270000000000002
+480,"Here we go. Okay, brace yourselves.",Chandler,neutral,neutral,45,0,3,17,2023-05-02 00:08:52.198,2023-05-02 00:08:55.283,3.0850000000000004
+481,What?,Monica,neutral,neutral,45,1,3,17,2023-05-02 00:08:53.658,2023-05-02 00:08:55.283,1.625
+482,Okay.,Rachel,neutral,neutral,45,2,3,17,2023-05-02 00:08:56.827,2023-05-02 00:08:57.389,0.562
+483,Ow!,Monica,surprise,positive,45,3,3,17,2023-05-02 00:08:57.389,2023-05-02 00:08:58.641,1.252
+484,Arent you gonna go?,Phoebe,neutral,neutral,45,4,3,17,2023-05-02 00:09:04.961,2023-05-02 00:09:05.733,0.772
+485,No. Thank you.,Rachel,neutral,neutral,45,5,3,17,2023-05-02 00:09:05.733,2023-05-02 00:09:06.967,1.234
+486,"No, Rachel never pees in public restrooms.",Monica,neutral,neutral,45,6,3,17,2023-05-02 00:09:07.129,2023-05-02 00:09:09.839,2.71
+488,"No, y'know what dont close it  cause the... keys...are in there.",Phoebe,neutral,neutral,45,8,3,17,2023-05-02 00:09:25.606,2023-05-02 00:09:27.983,2.3770000000000002
+489,"Oh, no-no-no-no-no-no!!",Chandler,fear,negative,45,9,3,17,2023-05-02 00:09:28.192,2023-05-02 00:09:29.568,1.3760000000000001
+490,Whats going on?,Joey,neutral,neutral,45,10,3,17,2023-05-02 00:09:30.152,2023-05-02 00:09:30.820,0.668
+491,My lighters in there!,Chandler,fear,negative,45,11,3,17,2023-05-02 00:09:30.820,2023-05-02 00:09:32.729,1.909
+492,I promise.,Rachel,neutral,neutral,46,0,3,8,2023-05-02 00:02:31.442,2023-05-02 00:02:32.484,1.042
+493,"Although, dont feel like you cant visit.",Phoebe,neutral,neutral,46,1,3,8,2023-05-02 00:02:32.652,2023-05-02 00:02:34.570,1.9180000000000001
+494,"Hey, is, is, is Chandler here?",Joey,neutral,neutral,46,2,3,8,2023-05-02 00:02:37.240,2023-05-02 00:02:39.700,2.46
+495,"No, no hes not.",Ross,neutral,neutral,46,3,3,8,2023-05-02 00:02:41.119,2023-05-02 00:02:42.452,1.3330000000000002
+496,"You guys, Joey just saw Janice kissing her ex-husband.",Monica,surprise,negative,46,4,3,8,2023-05-02 00:02:43.955,2023-05-02 00:02:48.584,4.6290000000000004
+497,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",Ross,surprise,negative,46,5,3,8,2023-05-02 00:02:48.793,2023-05-02 00:02:53.213,4.42
+498,"Well, I was thinking about that and I, I think the best way would be, to not.",Joey,neutral,neutral,46,6,3,8,2023-05-02 00:02:53.381,2023-05-02 00:02:57.843,4.462000000000001
+499,"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",Rachel,neutral,neutral,46,7,3,8,2023-05-02 00:02:58.761,2023-05-02 00:03:02.214,3.4530000000000003
+500,"Itll kill him. I mean itll, itll just kill him.",Joey,fear,negative,46,8,3,8,2023-05-02 00:03:02.182,2023-05-02 00:03:04.474,2.2920000000000003
+501,"Well, you could wait til I go to the dentist, maybe",Phoebe,neutral,neutral,46,9,3,8,2023-05-02 00:03:04.642,2023-05-02 00:03:07.519,2.8770000000000002
+504,"Hey, what are you doing here?",Carol,neutral,neutral,47,0,3,17,2023-05-02 00:12:05.599,2023-05-02 00:12:07.642,2.043
+506,"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",Carol,neutral,neutral,47,2,3,17,2023-05-02 00:12:18.362,2023-05-02 00:12:22.031,3.669
+507,Wheres Ben?,Ross,neutral,neutral,47,3,3,17,2023-05-02 00:12:22.491,2023-05-02 00:12:23.533,1.042
+508,Hes sleeping.,Carol,neutral,neutral,47,4,3,17,2023-05-02 00:12:23.743,2023-05-02 00:12:24.993,1.25
+511,"Oh! I thought you guys got married in uh, January?",Ross,surprise,negative,47,7,3,17,2023-05-02 00:12:34.712,2023-05-02 00:12:37.172,2.46
+512,Its not that kind of anniversary.,Carol,neutral,neutral,47,8,3,17,2023-05-02 00:12:37.381,2023-05-02 00:12:39.090,1.709
+513,Ah!  Oh.,Ross,surprise,negative,47,9,3,17,2023-05-02 00:12:39.300,2023-05-02 00:12:42.242,2.942
+514,Sooo!! Anyway...,Carol,neutral,neutral,47,10,3,17,2023-05-02 00:12:42.939,2023-05-02 00:12:45.638,2.6990000000000003
+515,Where are we gonna find a tiny little hat?,Monica,neutral,neutral,48,0,3,8,2023-05-02 00:06:08.284,2023-05-02 00:06:13.121,4.837000000000001
+516,"Oh, oh, oh, Ill get Rainy Day Bear!!",Rachel,joy,positive,48,1,3,8,2023-05-02 00:06:13.289,2023-05-02 00:06:14.956,1.667
+517,"Because hell know what to do?  Oh my God, youre a genius!",Monica,joy,positive,48,2,3,8,2023-05-02 00:06:15.124,2023-05-02 00:06:19.378,4.2540000000000004
+518,"Oh God, oh God, its sowed on though.",Rachel,fear,negative,48,3,3,8,2023-05-02 00:06:19.545,2023-05-02 00:06:21.463,1.9180000000000001
+519,Give it. Give it.,Monica,neutral,neutral,48,4,3,8,2023-05-02 00:06:21.631,2023-05-02 00:06:23.090,1.459
+520,Okay.,Rachel,neutral,neutral,48,5,3,8,2023-05-02 00:06:22.090,2023-05-02 00:06:23.090,1.0
+521,Oh!!,Monica and Rachel,surprise,negative,48,6,3,8,2023-05-02 00:06:23.466,2023-05-02 00:06:24.674,1.2080000000000002
+522,"Oh, its just like a bloodbath in here today.",Rachel,sadness,negative,48,7,3,8,2023-05-02 00:06:27.303,2023-05-02 00:06:30.806,3.503
+523,Please. This is so your fault.,Ross,anger,negative,49,0,1,23,2023-05-02 00:09:14.804,2023-05-02 00:09:18.446,3.6420000000000003
+524,"How, how is this my fault?",Susan,surprise,negative,49,1,1,23,2023-05-02 00:09:18.446,2023-05-02 00:09:18.602,0.156
+525,"Look, Carol never threw me out of a room before you came along.",Ross,anger,negative,49,2,1,23,2023-05-02 00:09:18.724,2023-05-02 00:09:21.685,2.9610000000000003
+526,"Yeah? Well, there's a lot of things Carol never did before I came along.",Susan,anger,negative,49,3,1,23,2023-05-02 00:09:21.894,2023-05-02 00:09:25.480,3.5860000000000003
+531,"Hey, hey, ok, all right, that's it!",Phoebe,anger,negative,49,6,1,23,2023-05-02 00:09:29.735,2023-05-02 00:09:33.947,4.212000000000001
+532,Get in here.,Phoebe,anger,negative,49,7,1,23,2023-05-02 00:09:32.947,2023-05-02 00:09:34.447,1.5
+533,Come on.,Phoebe,neutral,neutral,49,8,1,23,2023-05-02 00:09:33.447,2023-05-02 00:09:34.447,1.0
+534,"My god, you guys, I don't believe you.",Phoebe,anger,negative,49,9,1,23,2023-05-02 00:09:34.615,2023-05-02 00:09:38.410,3.7950000000000004
+536,"So just stop all the yelling, just stop it!",Phoebe,anger,negative,49,11,1,23,2023-05-02 00:09:45.626,2023-05-02 00:09:48.086,2.46
+537,"Yeah, Susan.",Ross,neutral,neutral,49,12,1,23,2023-05-02 00:09:48.296,2023-05-02 00:09:50.714,2.418
+538,"Don't make me do this again, I don't like my voice like this.",Phoebe,anger,negative,49,13,1,23,2023-05-02 00:09:50.881,2023-05-02 00:09:54.593,3.712
+539,"Ok, who wants to hear something ironic?",Phoebe,neutral,neutral,49,14,1,23,2023-05-02 00:09:59.807,2023-05-02 00:10:02.225,2.418
+540,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",Phoebe,surprise,negative,50,0,6,22,2023-05-02 00:16:55.597,2023-05-02 00:17:00.101,4.5040000000000004
+541,I didnt do that! Who wouldve done that?!,Joey,surprise,negative,50,1,6,22,2023-05-02 00:17:03.439,2023-05-02 00:17:05.671,2.232
+542,Son of a bitch!,The Dry Cleaner,anger,negative,50,2,6,22,2023-05-02 00:17:05.671,2023-05-02 00:17:06.747,1.076
+543,"Okay, maybe ask this guy.",Phoebe,neutral,neutral,50,3,6,22,2023-05-02 00:17:07.317,2023-05-02 00:17:09.527,2.21
+545,"Yknow sometimes the good ideas are just right in front of you, arent they?",Chandler,joy,positive,51,1,6,17,2023-05-02 00:15:07.907,2023-05-02 00:15:11.618,3.7110000000000003
+547,The,Monica,neutral,neutral,51,3,6,17,2023-05-02 00:15:17.166,2023-05-02 00:15:19.417,2.2510000000000003
+548,"Yeah, hes the reason I didnt get that big",Joey,neutral,neutral,51,4,6,17,2023-05-02 00:15:20.169,2023-05-02 00:15:23.963,3.794
+549,"Hey, uh can I get a little piece of that cake?",Carl,neutral,neutral,51,5,6,17,2023-05-02 00:15:27.217,2023-05-02 00:15:29.844,2.6270000000000002
+550,Pizza!! We like Pizza!! Get out!!!,Joey,anger,negative,51,6,6,17,2023-05-02 00:15:30.054,2023-05-02 00:15:33.014,2.96
+551,"Hey Monica, theres a customer who wants to complement the chef, should I let him in?",Waitress,neutral,neutral,52,0,6,24,2023-05-02 00:20:36.109,2023-05-02 00:20:39.528,3.419
+552,"Sure, I love this part!",Monica,joy,positive,52,1,6,24,2023-05-02 00:20:39.696,2023-05-02 00:20:42.073,2.3770000000000002
+553,Come on in.,Waitress,neutral,neutral,52,2,6,24,2023-05-02 00:20:42.741,2023-05-02 00:20:45.159,2.418
+555,"In the moment, yeah.",Janine,neutral,neutral,53,1,6,10,2023-05-02 00:19:52.983,2023-05-02 00:19:54.000,1.0170000000000001
+557,"Sure, New Years Eve is only two weeks away. Can you wait?",Janine,neutral,neutral,53,3,6,10,2023-05-02 00:20:02.451,2023-05-02 00:20:06.996,4.545
+558,No.,Joey,neutral,neutral,53,4,6,10,2023-05-02 00:20:07.456,2023-05-02 00:20:08.873,1.417
+559,Me neither.,Janine,neutral,neutral,53,5,6,10,2023-05-02 00:20:10.751,2023-05-02 00:20:11.959,1.2080000000000002
+560,"3, 2,",Joey,neutral,neutral,53,6,6,10,2023-05-02 00:20:15.088,2023-05-02 00:20:17.024,1.9360000000000002
+561,"Joey, you dont have to count down every time we kiss.",Janine,joy,positive,53,7,6,10,2023-05-02 00:20:18.175,2023-05-02 00:20:20.468,2.293
+565,Alright. Phoebe?,Monica,neutral,neutral,54,0,1,4,2023-05-02 00:00:03.420,2023-05-02 00:00:04.382,0.9620000000000001
+566,"Okay, okay.",Phoebe,neutral,neutral,54,1,1,4,2023-05-02 00:00:04.382,2023-05-02 00:00:05.298,0.916
+569,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",Chandler,neutral,neutral,54,4,1,4,2023-05-02 00:00:22.605,2023-05-02 00:00:26.025,3.4200000000000004
+571,"Hey Joey. Hi. Hey, buddy.",All,neutral,neutral,54,6,1,4,2023-05-02 00:00:34.075,2023-05-02 00:00:35.534,1.459
+572,"Hey, Joey, what would you do if you were omnipotent?",Monica,neutral,neutral,54,7,1,4,2023-05-02 00:00:35.702,2023-05-02 00:00:37.828,2.1260000000000003
+573,Probably kill myself!,Joey,sadness,negative,54,8,1,4,2023-05-02 00:00:38.538,2023-05-02 00:00:40.831,2.293
+574,..Excuse me?,Monica,surprise,positive,54,9,1,4,2023-05-02 00:00:41.791,2023-05-02 00:00:43.250,1.459
+575,"Hey, if Little Joey's dead, then I got no reason to live!",Joey,sadness,negative,54,10,1,4,2023-05-02 00:00:43.418,2023-05-02 00:00:47.087,3.669
+576,"Joey, uh-",Ross,surprise,positive,54,11,1,4,2023-05-02 00:00:49.090,2023-05-02 00:00:51.383,2.293
+577,You,Joey,neutral,neutral,54,12,1,4,2023-05-02 00:00:53.094,2023-05-02 00:00:55.054,1.9600000000000002
+578,Im sorry.,Kate,sadness,negative,55,0,6,1,2023-05-02 00:03:46.100,2023-05-02 00:03:48.769,2.669
+579,"Joey, onstage!",Stage Manager,anger,negative,56,0,3,22,2023-05-02 00:19:48.103,2023-05-02 00:19:50.354,2.2510000000000003
+580,Well can you at least stay to the end of the play?,Joey,sadness,negative,56,1,3,22,2023-05-02 00:19:51.106,2023-05-02 00:19:53.274,2.168
+581,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",Joey,sadness,negative,56,2,3,22,2023-05-02 00:19:53.442,2023-05-02 00:19:56.227,2.785
+582,Where are you Vic?,Lauren,neutral,neutral,56,3,3,22,2023-05-02 00:19:56.445,2023-05-02 00:19:58.362,1.917
+583,Flights in an hour. I-I gotta go.,Kate,sadness,negative,56,4,3,22,2023-05-02 00:19:58.530,2023-05-02 00:20:00.698,2.168
+584,Vic! Vic!,Lauren,anger,negative,56,5,3,22,2023-05-02 00:20:00.866,2023-05-02 00:20:02.325,1.459
+585,In a minute!!,Joey,anger,negative,56,6,3,22,2023-05-02 00:20:05.454,2023-05-02 00:20:07.455,2.0010000000000003
+586,So this is it? Victor?,Lauren,sadness,negative,56,7,3,22,2023-05-02 00:20:09.583,2023-05-02 00:20:11.959,2.3760000000000003
+587,"Yeah, I guess it is.",Joey,sadness,negative,56,8,3,22,2023-05-02 00:20:12.794,2023-05-02 00:20:15.755,2.9610000000000003
+589,"One thing you gotta know, is that I will never forget you.",Joey,sadness,negative,56,10,3,22,2023-05-02 00:20:29.311,2023-05-02 00:20:33.898,4.587000000000001
+593,But I wont have aged at all.,Joey,neutral,neutral,56,14,3,22,2023-05-02 00:21:06.098,2023-05-02 00:21:08.557,2.459
+595,"So long, Vic!",Lauren,sadness,negative,56,16,3,22,2023-05-02 00:21:34.293,2023-05-02 00:21:36.585,2.2920000000000003
+597,Nooo Way! The most romantic song ever is,Rachel,neutral,neutral,57,0,3,1,2023-05-02 00:01:14.616,2023-05-02 00:01:18.994,4.378
+599,"What song was that, Pheebs?",Rachel,neutral,neutral,57,2,3,1,2023-05-02 00:01:26.336,2023-05-02 00:01:28.295,1.959
+600,Hi Monica!,Phoebe,joy,positive,57,3,3,1,2023-05-02 00:01:36.513,2023-05-02 00:01:37.846,1.3330000000000002
+601,Hey Mon!,Ross,joy,positive,57,4,3,1,2023-05-02 00:01:38.014,2023-05-02 00:01:38.807,0.793
+602,Hey Mon!,Rachel,joy,positive,57,5,3,1,2023-05-02 00:01:38.807,2023-05-02 00:01:39.754,0.9470000000000001
+603,"Oh my God, has she slept at all?",Phoebe,surprise,negative,57,6,3,1,2023-05-02 00:01:41.559,2023-05-02 00:01:44.978,3.419
+604,Nope.,Ross,neutral,neutral,57,7,3,1,2023-05-02 00:01:43.144,2023-05-02 00:01:44.978,1.834
+605,"No, it's been three nights in a row.",Rachel,neutral,neutral,57,8,3,1,2023-05-02 00:01:45.146,2023-05-02 00:01:47.064,1.9180000000000001
+607,"Oh, okay that explains it.",Phoebe,neutral,neutral,57,10,3,1,2023-05-02 00:01:52.529,2023-05-02 00:01:56.949,4.42
+610,"So uh, man, are you gonna go to the play with me tonight?",Chandler,neutral,neutral,58,0,4,13,2023-05-02 00:05:01.050,2023-05-02 00:05:03.552,2.5020000000000002
+612,"Yeah, I know but",Chandler,neutral,neutral,58,2,4,13,2023-05-02 00:05:10.143,2023-05-02 00:05:11.575,1.4320000000000002
+613,"Oh no-no-no, Im there.",Ross,neutral,neutral,58,3,4,13,2023-05-02 00:05:11.575,2023-05-02 00:05:12.320,0.745
+614,Hey!,Monica,surprise,positive,58,4,4,13,2023-05-02 00:05:14.731,2023-05-02 00:05:15.814,1.083
+615,Hey Mon! Want some pancakes?,Joey,joy,positive,58,5,4,13,2023-05-02 00:05:14.731,2023-05-02 00:05:18.150,3.419
+616,You made pancakes?,Monica,surprise,positive,58,6,4,13,2023-05-02 00:05:15.982,2023-05-02 00:05:18.150,2.168
+617,Yep! Grab a plate.,Joey,joy,positive,58,7,4,13,2023-05-02 00:05:18.318,2023-05-02 00:05:20.110,1.792
+620,"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",Chandler,neutral,neutral,58,9,4,13,2023-05-02 00:05:29.537,2023-05-02 00:05:33.749,4.212000000000001
+621,"Listen also were uh, were watching the game here Saturday night, if people want to come over.",Joey,neutral,neutral,58,10,4,13,2023-05-02 00:05:39.589,2023-05-02 00:05:42.674,3.0850000000000004
+622,Oh yeah!,Ross,joy,positive,58,11,4,13,2023-05-02 00:05:42.842,2023-05-02 00:05:43.925,1.083
+623,"Yes, if the foxhole was lined with sandwiches.",Chandler,neutral,neutral,59,0,5,20,2023-05-02 00:21:42.592,2023-05-02 00:21:45.344,2.7520000000000002
+624,"Yeah, hero sandwiches.",Joey,neutral,neutral,59,1,5,20,2023-05-02 00:21:46.638,2023-05-02 00:21:48.848,2.21
+625,Well you all know that I'm a pacifist so I'm not interested in war in any way.,Phoebe,neutral,neutral,59,2,5,20,2023-05-02 00:21:51.310,2023-05-02 00:21:55.813,4.503
+627,"When the revolution comes, I will have to destroy you all.",Phoebe,neutral,neutral,59,3,5,20,2023-05-02 00:21:56.064,2023-05-02 00:21:59.358,3.294
+628,Not you Joey.,Phoebe,neutral,neutral,59,4,5,20,2023-05-02 00:22:00.569,2023-05-02 00:22:01.861,1.292
+629,Oh my good God.,Chandler,surprise,positive,60,0,6,17,2023-05-02 00:17:15.534,2023-05-02 00:17:18.036,2.5020000000000002
+631,"Look, you have done enough! Okay? You have to stop this now.",Chandler,anger,negative,60,2,6,17,2023-05-02 00:17:32.551,2023-05-02 00:17:36.012,3.4610000000000003
+633,"Oh, the mixed tape.",Chandler,neutral,neutral,60,4,6,17,2023-05-02 00:17:42.728,2023-05-02 00:17:44.520,1.792
+634,The Way You Look Tonight,Monica,joy,positive,60,5,6,17,2023-05-02 00:17:45.731,2023-05-02 00:17:48.107,2.3760000000000003
+635,You are just the sweetest.,Monica,joy,positive,60,6,6,17,2023-05-02 00:18:16.136,2023-05-02 00:18:19.055,2.919
+637,Hey!,Monica,joy,positive,61,0,3,21,2023-05-02 00:12:46.891,2023-05-02 00:12:47.225,0.334
+638,Hey!,Phoebe,joy,positive,61,1,3,21,2023-05-02 00:12:47.225,2023-05-02 00:12:48.632,1.407
+639,"Hey, guess what Im doing tonight.",Monica,neutral,neutral,61,2,3,21,2023-05-02 00:12:48.726,2023-05-02 00:12:50.393,1.667
+640,What?,Phoebe,neutral,neutral,61,3,3,21,2023-05-02 00:12:49.393,2023-05-02 00:12:50.393,1.0
+641,Im checking out the restaurant with Pete.,Monica,neutral,neutral,61,4,3,21,2023-05-02 00:12:50.603,2023-05-02 00:12:52.562,1.959
+642,"Ohh, Monica, I am so excited for you.",Phoebe,joy,positive,61,5,3,21,2023-05-02 00:12:52.730,2023-05-02 00:12:56.232,3.5020000000000002
+645,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",Carol,joy,positive,62,1,6,16,2023-05-02 00:00:59.309,2023-05-02 00:01:03.020,3.7110000000000003
+647,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",Carol,neutral,neutral,62,3,6,16,2023-05-02 00:01:18.661,2023-05-02 00:01:22.926,4.265000000000001
+649,"Oh, me too.",Carol,neutral,neutral,62,5,6,16,2023-05-02 00:01:31.132,2023-05-02 00:01:33.258,2.1260000000000003
+651,"Ross, it just wouldnt have been feasible.",Rachel,neutral,neutral,63,1,8,18,2023-05-02 00:19:43.003,2023-05-02 00:19:44.838,1.8350000000000002
+652,But having a dove place the ring on your finger wouldve been no problem?,Ross,anger,negative,63,2,8,18,2023-05-02 00:19:45.088,2023-05-02 00:19:49.593,4.505
+653,It was really fun being married to you tonight.,Rachel,joy,positive,63,3,8,18,2023-05-02 00:19:52.137,2023-05-02 00:19:54.056,1.919
+654,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",Ross,joy,positive,63,4,8,18,2023-05-02 00:19:54.222,2023-05-02 00:19:57.351,3.129
+655,"Okay Ross, can I uh, can I ask you something?",Rachel,sadness,negative,63,5,8,18,2023-05-02 00:19:58.935,2023-05-02 00:20:01.747,2.8120000000000003
+656,Yeah.,Ross,neutral,neutral,63,6,8,18,2023-05-02 00:20:01.747,2023-05-02 00:20:02.499,0.752
+657,"That proposal, at the planetarium",Rachel,neutral,neutral,63,7,8,18,2023-05-02 00:20:02.689,2023-05-02 00:20:04.951,2.262
+658,"I know, I know it was stupid.",Ross,sadness,negative,63,8,8,18,2023-05-02 00:20:04.951,2023-05-02 00:20:07.383,2.432
+659,Are you kidding?!,Rachel,surprise,positive,63,9,8,18,2023-05-02 00:20:07.527,2023-05-02 00:20:08.278,0.751
+661,It wasreally wonderful!,Rachel,joy,positive,63,11,8,18,2023-05-02 00:20:13.617,2023-05-02 00:20:16.959,3.342
+662,Did you just make that up?,Rachel,surprise,positive,63,12,8,18,2023-05-02 00:20:16.959,2023-05-02 00:20:18.759,1.8
+663,"No, actually I thought about it when, when we were going out.",Ross,neutral,neutral,63,13,8,18,2023-05-02 00:20:19.039,2023-05-02 00:20:22.167,3.128
+664,"Its how I imagined I uh, I would ask you to marry me.",Ross,neutral,neutral,63,14,8,18,2023-05-02 00:20:22.376,2023-05-02 00:20:27.130,4.7540000000000004
+665,"Well, that wouldve been very hard to say no too.",Rachel,neutral,neutral,63,15,8,18,2023-05-02 00:20:30.550,2023-05-02 00:20:35.055,4.505
+667,Goodnight,Rachel,neutral,neutral,63,17,8,18,2023-05-02 00:20:52.407,2023-05-02 00:20:53.407,1.0
+668,Even if the sidecar had a windscreen so your hair wouldnt get messed up?,Ross,neutral,neutral,63,18,8,18,2023-05-02 00:20:55.909,2023-05-02 00:21:00.664,4.755
+669,I will think about it.,Rachel,neutral,neutral,63,19,8,18,2023-05-02 00:21:00.872,2023-05-02 00:21:01.754,0.882
+670,Thats all Im askin,Ross,neutral,neutral,63,20,8,18,2023-05-02 00:21:01.754,2023-05-02 00:21:04.265,2.511
+672,"Well actually, I-I didnt eat mine. Its still in the bathroom.",Monica,joy,positive,64,1,6,9,2023-05-02 00:22:14.833,2023-05-02 00:22:18.085,3.2520000000000002
+673,"No it isnt, I ate that.",Joey,neutral,neutral,64,2,6,9,2023-05-02 00:22:18.295,2023-05-02 00:22:19.295,1.0
+674,Well we left ours in Monicas bedroom.,Mrs. Geller,neutral,neutral,64,3,6,9,2023-05-02 00:22:22.049,2023-05-02 00:22:24.133,2.084
+675,"Nope, got it and I got yours  too.",Joey,neutral,neutral,64,4,6,9,2023-05-02 00:22:24.343,2023-05-02 00:22:26.635,2.2920000000000003
+677,And thats Im so glad theres no problem.,Rachel,joy,positive,65,0,4,9,2023-05-02 00:04:17.006,2023-05-02 00:04:19.216,2.21
+678,"Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.",Joanna,neutral,neutral,65,1,4,9,2023-05-02 00:04:19.842,2023-05-02 00:04:23.845,4.003
+679,Ohh! Thats great!,Rachel,joy,positive,65,2,4,9,2023-05-02 00:04:24.013,2023-05-02 00:04:25.430,1.417
+681,Really?!,Rachel,surprise,positive,65,4,4,9,2023-05-02 00:04:32.689,2023-05-02 00:04:33.541,0.8520000000000001
+682,No-ho-ho!,Joanna,joy,positive,65,5,4,9,2023-05-02 00:04:33.541,2023-05-02 00:04:36.295,2.754
+683,Yeah.,Joanna,neutral,neutral,65,6,4,9,2023-05-02 00:04:36.401,2023-05-02 00:04:37.985,1.584
+685,"Although, I might need some convincing.",Joanna,neutral,neutral,65,8,4,9,2023-05-02 00:04:46.577,2023-05-02 00:04:48.704,2.1270000000000002
+686,"Well, I, umm",Rachel,fear,negative,65,9,4,9,2023-05-02 00:04:50.873,2023-05-02 00:04:51.873,1.0
+688,Oh my God! Chandler just left though!,Phoebe,surprise,negative,66,0,7,23,2023-05-02 00:14:35.291,2023-05-02 00:14:38.334,3.043
+693,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",Rachel,sadness,negative,66,5,7,23,2023-05-02 00:15:08.032,2023-05-02 00:15:12.035,4.003
+694,"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",Ross,neutral,neutral,66,6,7,23,2023-05-02 00:15:12.369,2023-05-02 00:15:15.872,3.503
+695,Okay?,Ross,neutral,neutral,66,7,7,23,2023-05-02 00:15:16.081,2023-05-02 00:15:16.503,0.42200000000000004
+696,"You-you make sure Monica does not find out, okay?",Ross,neutral,neutral,66,8,7,23,2023-05-02 00:15:16.503,2023-05-02 00:15:19.673,3.1700000000000004
+699,"I will, I will find him.",Ross,neutral,neutral,66,11,7,23,2023-05-02 00:15:29.345,2023-05-02 00:15:31.179,1.834
+700,Hey!,Rachel,joy,positive,67,0,6,19,2023-05-02 00:01:59.953,2023-05-02 00:02:01.205,1.252
+701,Hi! Hey!,All,joy,positive,67,1,6,19,2023-05-02 00:02:01.205,2023-05-02 00:02:01.361,0.156
+702,Do you guys know any cute guys?,Rachel,neutral,neutral,67,2,6,19,2023-05-02 00:02:01.454,2023-05-02 00:02:04.289,2.835
+703,"Well, of course I do! My good friend Joey over here.",Chandler,joy,positive,67,3,6,19,2023-05-02 00:02:04.457,2023-05-02 00:02:07.417,2.96
+704,"Oh, Im sorry. Thank you Chandler.",Joey,joy,positive,67,4,6,19,2023-05-02 00:02:10.839,2023-05-02 00:02:14.299,3.4600000000000004
+706,Whats the charity?,Monica,neutral,neutral,67,6,6,19,2023-05-02 00:02:21.224,2023-05-02 00:02:22.350,1.1260000000000001
+710,"Well, what kind of guy are you looking for?",Phoebe,neutral,neutral,67,10,6,19,2023-05-02 00:02:37.740,2023-05-02 00:02:39.408,1.6680000000000001
+711,Hey!,Rachel,joy,positive,68,0,6,21,2023-05-02 00:02:18.012,2023-05-02 00:02:19.054,1.042
+712,What are you guys doing later?,Ross,neutral,neutral,68,1,6,21,2023-05-02 00:02:19.222,2023-05-02 00:02:20.973,1.7510000000000001
+713,"Oh, Rachel and I have appointments to get our hair cut.",Phoebe,neutral,neutral,68,2,6,21,2023-05-02 00:02:21.141,2023-05-02 00:02:23.475,2.334
+714,We do?,Rachel,surprise,negative,68,3,6,21,2023-05-02 00:02:24.102,2023-05-02 00:02:24.404,0.30200000000000005
+715,I want to see what he wants first.,Phoebe,neutral,neutral,68,4,6,21,2023-05-02 00:02:24.404,2023-05-02 00:02:26.706,2.302
+717,I just found out that Elizabeths dad wants to meet me.,Ross,sadness,negative,68,5,6,21,2023-05-02 00:02:28.064,2023-05-02 00:02:30.774,2.71
+718,"Wait a minute, hold the phone! Youre not Elizabeths dad?!",Chandler,surprise,positive,68,6,6,21,2023-05-02 00:02:30.942,2023-05-02 00:02:35.070,4.128
+719,"Come on guys, I-I really want this guy to like me.",Ross,fear,negative,68,7,6,21,2023-05-02 00:02:38.449,2023-05-02 00:02:40.742,2.293
+720,It-it would really help me out if you guys were here to make me look good.,Ross,sadness,negative,68,8,6,21,2023-05-02 00:02:40.910,2023-05-02 00:02:45.831,4.921
+721,Of course well help! Yeah! Well be here!,All,joy,positive,68,9,6,21,2023-05-02 00:02:43.663,2023-05-02 00:02:47.541,3.878
+722,Thanks!,Ross,joy,positive,68,10,6,21,2023-05-02 00:02:45.999,2023-05-02 00:02:47.541,1.542
+723,We know how tough those parent/teacher conferences can be.,Monica,neutral,neutral,68,11,6,21,2023-05-02 00:02:47.709,2023-05-02 00:02:50.544,2.835
+724,"Oh, hi! How are you doing?",Rachel,joy,positive,69,0,7,8,2023-05-02 00:19:38.969,2023-05-02 00:19:41.000,2.031
+725,I'm okay. I gotta go down to the police station and look at mug shots.,Tag,sadness,negative,69,1,7,8,2023-05-02 00:19:40.888,2023-05-02 00:19:45.099,4.211
+727,"Thanks for having me over, you guys.",Tag,neutral,neutral,69,2,7,8,2023-05-02 00:19:45.309,2023-05-02 00:19:46.728,1.419
+728,Tag?,Ross,neutral,neutral,69,3,7,8,2023-05-02 00:19:46.728,2023-05-02 00:19:49.508,2.7800000000000002
+730,Y-You're going?,Ross,joy,positive,69,4,7,8,2023-05-02 00:19:45.309,2023-05-02 00:19:49.437,4.128
+731,"Uh we didn't, uh we didn't get the chance to talk.",Ross,neutral,neutral,69,5,7,8,2023-05-02 00:19:49.605,2023-05-02 00:19:52.023,2.418
+732,"Uh, so, where did you say you're from again?",Ross,neutral,neutral,69,6,7,8,2023-05-02 00:19:52.274,2023-05-02 00:19:54.650,2.3760000000000003
+733,Colorado.,Tag,neutral,neutral,69,7,7,8,2023-05-02 00:19:54.860,2023-05-02 00:19:55.672,0.812
+734,"Ah, what good are you.",Ross,neutral,neutral,69,8,7,8,2023-05-02 00:19:55.672,2023-05-02 00:19:57.378,1.7060000000000002
+735,"Look, um, I think we should talk about what happened on the terrace.",Rachel,neutral,neutral,69,9,7,8,2023-05-02 00:20:03.619,2023-05-02 00:20:07.496,3.8770000000000002
+736,Okay.,Tag,neutral,neutral,69,10,7,8,2023-05-02 00:20:07.706,2023-05-02 00:20:09.081,1.375
+737,"Ah, I-I never should have said what I said.",Rachel,sadness,negative,69,11,7,8,2023-05-02 00:20:09.249,2023-05-02 00:20:11.000,1.7510000000000001
+738,Ityknow what?,Rachel,neutral,neutral,69,12,7,8,2023-05-02 00:20:11.168,2023-05-02 00:20:11.920,0.752
+739,It just doesn't matter how I feel.,Rachel,sadness,negative,69,13,7,8,2023-05-02 00:20:11.920,2023-05-02 00:20:13.260,1.34
+741,"Um, I'm not.",Tag,neutral,neutral,69,15,7,8,2023-05-02 00:20:28.518,2023-05-02 00:20:30.686,2.168
+742,"Oh, god, I knew it, that I freaked you out.",Rachel,sadness,negative,69,16,7,8,2023-05-02 00:20:30.896,2023-05-02 00:20:34.232,3.3360000000000003
+744,Really?,Rachel,surprise,positive,69,18,7,8,2023-05-02 00:20:39.738,2023-05-02 00:20:41.000,1.262
+745,"Yeah, so, please don't fire me for doing this.",Tag,sadness,negative,69,19,7,8,2023-05-02 00:20:41.000,2023-05-02 00:20:45.409,4.409000000000001
+747,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",Chandler,neutral,neutral,70,1,1,4,2023-05-02 00:12:23.743,2023-05-02 00:12:27.370,3.6270000000000002
+748,Pass it! Pass it!,Ross,joy,positive,70,2,1,4,2023-05-02 00:12:27.538,2023-05-02 00:12:29.831,2.293
+749,He's open!,Chandler,joy,positive,70,3,1,4,2023-05-02 00:12:29.999,2023-05-02 00:12:30.511,0.512
+750,Shoot! Shoot! Shoot!,All,joy,positive,70,4,1,4,2023-05-02 00:12:30.511,2023-05-02 00:12:33.925,3.414
+751,"Hey, look, we're on that TV thing!",Chandler,surprise,positive,70,5,1,4,2023-05-02 00:12:39.842,2023-05-02 00:12:43.178,3.3360000000000003
+752,I am so psyched I kept this chair for myself!,Rachel,joy,positive,71,0,7,13,2023-05-02 00:13:07.620,2023-05-02 00:13:11.331,3.7110000000000003
+753,"Yeah, me too.",Joey,neutral,neutral,71,1,7,13,2023-05-02 00:13:15.169,2023-05-02 00:13:17.253,2.084
+756,"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",Rachel,surprise,positive,71,2,7,13,2023-05-02 00:13:19.715,2023-05-02 00:13:23.218,3.503
+757,No. Really?,Joey,surprise,negative,71,3,7,13,2023-05-02 00:13:24.929,2023-05-02 00:13:26.346,1.417
+758,Yeah! You can hook it up to your TV,Rachel,joy,positive,71,4,7,13,2023-05-02 00:13:26.514,2023-05-02 00:13:29.015,2.5010000000000003
+759,My chair heals itself.,Joey,neutral,neutral,71,5,7,13,2023-05-02 00:13:34.563,2023-05-02 00:13:36.731,2.168
+761,"Yes! Yes, I did.",Joey,sadness,negative,72,1,5,11,2023-05-02 00:11:03.746,2023-05-02 00:11:05.373,1.627
+762,Then do Iceberg!,Phoebe,anger,negative,72,2,5,11,2023-05-02 00:11:05.373,2023-05-02 00:11:06.557,1.1840000000000002
+763,G-sharp.,Joey,neutral,neutral,72,3,5,11,2023-05-02 00:11:07.875,2023-05-02 00:11:08.627,0.752
+764,G,Phoebe,neutral,neutral,72,4,5,11,2023-05-02 00:11:08.627,2023-05-02 00:11:10.799,2.172
+765,What?! I didn't touch a guitar!,Joey,surprise,negative,72,5,5,11,2023-05-02 00:11:20.471,2023-05-02 00:11:22.555,2.084
+766,"No, but you're questioning my method!",Phoebe,anger,negative,72,6,5,11,2023-05-02 00:11:22.273,2023-05-02 00:11:24.432,2.1590000000000003
+768,Thank you.,Monica,neutral,neutral,72,8,5,11,2023-05-02 00:11:32.066,2023-05-02 00:11:33.525,1.459
+770,"Your other student, was you!",Joey,anger,negative,72,10,5,11,2023-05-02 00:11:39.657,2023-05-02 00:11:42.617,2.96
+771,"Yeah, well, y'know maybe you just need to try a little harder!",Phoebe,anger,negative,72,11,5,11,2023-05-02 00:11:43.911,2023-05-02 00:11:47.914,4.003
+772,"Look, maybe I need to try a real teacher!",Joey,anger,negative,72,12,5,11,2023-05-02 00:11:48.082,2023-05-02 00:11:49.833,1.7510000000000001
+773,Right here!,Joey,anger,negative,72,13,5,11,2023-05-02 00:11:49.833,2023-05-02 00:11:50.751,0.918
+774,Here!,Joey,anger,negative,72,14,5,11,2023-05-02 00:11:50.751,2023-05-02 00:11:52.943,2.192
+777,"""Baddest man in the whole damn town.""",Rachel,neutral,neutral,72,17,5,11,2023-05-02 00:12:11.230,2023-05-02 00:12:13.606,2.3760000000000003
+778,"Oh, fine! Take his side!",Phoebe,anger,negative,72,18,5,11,2023-05-02 00:12:13.774,2023-05-02 00:12:16.234,2.46
+780,Hey!,Joey,anger,negative,73,1,5,10,2023-05-02 00:10:33.257,2023-05-02 00:10:34.257,1.0
+781,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,Ross,anger,negative,73,2,5,10,2023-05-02 00:10:34.425,2023-05-02 00:10:38.762,4.337000000000001
+782,Hi!,Rachel,joy,positive,74,0,8,3,2023-05-02 00:09:12.969,2023-05-02 00:09:13.637,0.668
+783,Hi.,Ross,neutral,neutral,74,1,8,3,2023-05-02 00:09:13.637,2023-05-02 00:09:14.448,0.811
+786,You do?,Rachel,surprise,positive,74,4,8,3,2023-05-02 00:09:34.323,2023-05-02 00:09:35.323,1.0
+788,Okay.,Rachel,neutral,neutral,74,6,8,3,2023-05-02 00:09:41.872,2023-05-02 00:09:43.707,1.8350000000000002
+790,What?,Rachel,surprise,negative,74,8,8,3,2023-05-02 00:10:04.645,2023-05-02 00:10:05.895,1.25
+792,Seriously. What?!,Rachel,surprise,negative,74,10,8,3,2023-05-02 00:10:18.909,2023-05-02 00:10:20.827,1.9180000000000001
+793,Okay.,Ross,neutral,neutral,74,11,8,3,2023-05-02 00:10:22.204,2023-05-02 00:10:23.086,0.882
+794,Okay.,Ross,neutral,neutral,74,12,8,3,2023-05-02 00:10:23.086,2023-05-02 00:10:24.058,0.9720000000000001
+795,Yknow what?,Ross,neutral,neutral,74,13,8,3,2023-05-02 00:10:24.058,2023-05-02 00:10:25.668,1.61
+796,"If you want to, we can do it one more time.",Ross,neutral,neutral,74,14,8,3,2023-05-02 00:10:25.791,2023-05-02 00:10:29.711,3.9200000000000004
+797,I mean Id-Id be okay with that.,Ross,neutral,neutral,74,15,8,3,2023-05-02 00:10:32.465,2023-05-02 00:10:34.397,1.9320000000000002
+798,"In fact, I have some time right now.",Ross,neutral,neutral,74,16,8,3,2023-05-02 00:10:34.397,2023-05-02 00:10:38.140,3.7430000000000003
+799,"Okay, yknow what? Can I, can I talk now?",Rachel,joy,positive,74,17,8,3,2023-05-02 00:10:38.604,2023-05-02 00:10:40.648,2.044
+800,Oh sure.,Ross,neutral,neutral,74,18,8,3,2023-05-02 00:10:40.648,2023-05-02 00:10:42.713,2.065
+803,I know!,Chandler,joy,positive,76,0,3,1,2023-05-02 00:16:22.982,2023-05-02 00:16:24.524,1.542
+804,"Yes! Wow, well, that-that was easy. Okay, you-you go.",Ross,surprise,positive,76,1,3,1,2023-05-02 00:16:25.693,2023-05-02 00:16:30.655,4.962000000000001
+805,Okay.,Chandler,neutral,neutral,76,2,3,1,2023-05-02 00:16:30.823,2023-05-02 00:16:31.575,0.752
+806,Okay.,Ross,neutral,neutral,76,3,3,1,2023-05-02 00:16:31.575,2023-05-02 00:16:31.955,0.38
+807,"Okay, you know, you know when your in bed, with a woman.",Chandler,joy,positive,76,4,3,1,2023-05-02 00:16:32.491,2023-05-02 00:16:35.451,2.96
+808,Hmph.,Ross,neutral,neutral,76,5,3,1,2023-05-02 00:16:35.619,2023-05-02 00:16:36.703,1.084
+809,"And, ah, you know, your fooling around with her.",Chandler,joy,positive,76,6,3,1,2023-05-02 00:16:36.912,2023-05-02 00:16:40.248,3.3360000000000003
+811,"With the belly-button ring? Oh, muhawa!",Ross,joy,positive,76,8,3,1,2023-05-02 00:16:46.839,2023-05-02 00:16:49.549,2.71
+812,"I know, And then all of the sudden your Mom pops into your head.",Chandler,anger,negative,76,9,3,1,2023-05-02 00:16:49.717,2023-05-02 00:16:52.301,2.584
+813,"And your like 'Mom, get outta here!'",Chandler,anger,negative,76,10,3,1,2023-05-02 00:16:54.054,2023-05-02 00:16:57.724,3.6700000000000004
+816,You know.... You don't know!,Chandler,surprise,negative,76,13,3,1,2023-05-02 00:17:06.442,2023-05-02 00:17:11.029,4.587000000000001
+818,You said...,Chandler,neutral,neutral,76,15,3,1,2023-05-02 00:17:19.079,2023-05-02 00:17:20.831,1.752
+819,I said ',Ross,neutral,neutral,76,16,3,1,2023-05-02 00:17:20.831,2023-05-02 00:17:22.173,1.342
+820,Oh!,Phoebe,surprise,positive,77,0,8,24,2023-05-02 00:17:17.065,2023-05-02 00:17:18.066,1.0010000000000001
+821,Look at Emma!,Ross,surprise,positive,77,1,8,24,2023-05-02 00:17:18.233,2023-05-02 00:17:21.737,3.504
+822,"I just cant decide who she looks more alike, you or Rachel?",Phoebe,neutral,neutral,77,2,8,24,2023-05-02 00:17:18.233,2023-05-02 00:17:23.155,4.922000000000001
+823,"Oh what are you kidding? Shes gorgeous, its all Rachel.",Ross,joy,positive,77,3,8,24,2023-05-02 00:17:23.322,2023-05-02 00:17:27.075,3.753
+824,"Im sorry, for the last time, why arent you two together again?",Phoebe,neutral,neutral,77,4,8,24,2023-05-02 00:17:31.497,2023-05-02 00:17:36.084,4.587000000000001
+825,"No, I know.",Phoebe,neutral,neutral,77,5,8,24,2023-05-02 00:17:37.544,2023-05-02 00:17:38.170,0.626
+826,"I know, because youre not in that place.",Phoebe,neutral,neutral,77,6,8,24,2023-05-02 00:17:38.170,2023-05-02 00:17:40.780,2.6100000000000003
+827,"Which would be fine, except you totally are.",Phoebe,neutral,neutral,77,7,8,24,2023-05-02 00:17:40.881,2023-05-02 00:17:44.009,3.128
+828,Itsits complicated okay?,Ross,sadness,negative,77,8,8,24,2023-05-02 00:17:44.176,2023-05-02 00:17:47.513,3.337
+830,"Look, weve been together.",Ross,sadness,negative,77,10,8,24,2023-05-02 00:17:57.272,2023-05-02 00:17:58.454,1.1820000000000002
+831,Okay?,Ross,neutral,neutral,77,11,8,24,2023-05-02 00:17:58.454,2023-05-02 00:18:00.088,1.6340000000000001
+832,"And then apart, and then together, and then apart, and now we have a baby.",Ross,sadness,negative,77,12,8,24,2023-05-02 00:18:00.192,2023-05-02 00:18:04.738,4.546
+835,What do they put something in the water in this place?,Ross,neutral,neutral,77,15,8,24,2023-05-02 00:18:23.674,2023-05-02 00:18:27.302,3.628
+836,"Since Rachel and I were doing really, were doing really well right now.",Ross,sadness,negative,77,16,8,24,2023-05-02 00:18:28.220,2023-05-02 00:18:31.807,3.587
+837,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",Phoebe,neutral,neutral,77,17,8,24,2023-05-02 00:18:31.974,2023-05-02 00:18:36.019,4.045
+838,"Yeah, exactly.",Ross,neutral,neutral,77,18,8,24,2023-05-02 00:18:36.186,2023-05-02 00:18:38.397,2.2110000000000003
+839,Right.  Or you might get everything youve wanted since you were fifteen.,Phoebe,neutral,neutral,77,19,8,24,2023-05-02 00:18:40.899,2023-05-02 00:18:44.778,3.8790000000000004
+840,God. I forgot how much I love driving. I have,Rachel,joy,positive,78,0,7,22,2023-05-02 00:09:32.530,2023-05-02 00:09:35.490,2.96
+841,You dont have a,Ross,neutral,neutral,78,1,7,22,2023-05-02 00:09:41.414,2023-05-02 00:09:45.375,3.9610000000000003
+843,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,Ross,anger,negative,78,3,7,22,2023-05-02 00:09:54.093,2023-05-02 00:09:57.917,3.8240000000000003
+844,"I am not horsing around, okay? I am Porsching around.",Rachel,joy,positive,78,4,7,22,2023-05-02 00:09:58.139,2023-05-02 00:10:00.390,2.2510000000000003
+845,Uh-oh.,Rachel,fear,negative,78,5,7,22,2023-05-02 00:10:08.733,2023-05-02 00:10:10.775,2.0420000000000003
+847,Really? You think so?,Rachel,fear,negative,78,7,7,22,2023-05-02 00:10:16.240,2023-05-02 00:10:17.657,1.417
+848,I was talking to myself! Youre going down!,Ross,anger,negative,78,8,7,22,2023-05-02 00:10:17.825,2023-05-02 00:10:20.619,2.794
+849,Hey honey! I missed you today!,Monica,joy,positive,79,0,9,21,2023-05-02 00:05:26.159,2023-05-02 00:05:28.535,2.3760000000000003
+850,"Oh, yeah?",Chandler,surprise,positive,79,1,9,21,2023-05-02 00:05:28.703,2023-05-02 00:05:31.204,2.5010000000000003
+851,Yeah.  What d'you wanna do tonight?,Monica,neutral,neutral,79,2,9,21,2023-05-02 00:05:31.956,2023-05-02 00:05:33.168,1.212
+852,"Oh, well... Maybe we could...",Chandler,neutral,neutral,79,3,9,21,2023-05-02 00:05:33.168,2023-05-02 00:05:36.842,3.6740000000000004
+853,"Ok, trying to turn me on by making a mess?",Monica,joy,positive,79,4,9,21,2023-05-02 00:05:46.429,2023-05-02 00:05:49.931,3.5020000000000002
+854,Know your audience!,Monica,joy,positive,79,5,9,21,2023-05-02 00:05:50.099,2023-05-02 00:05:51.683,1.584
+856,We really need to take those tests?,Chandler,sadness,negative,79,7,9,21,2023-05-02 00:06:01.277,2023-05-02 00:06:03.403,2.1260000000000003
+857,"Honey, we've been trying to have a baby for over a year.",Monica,neutral,neutral,79,8,9,21,2023-05-02 00:06:03.571,2023-05-02 00:06:05.655,2.084
+859,But I don't wanna do it in a cup!,Chandler,sadness,negative,79,10,9,21,2023-05-02 00:06:08.910,2023-05-02 00:06:12.954,4.0440000000000005
+860,"Oh, hi Max! Hey, do you know everybody?",Phoebe,neutral,neutral,80,0,1,10,2023-05-02 00:12:02.471,2023-05-02 00:12:04.639,2.168
+861,No. Have you seen David?,Max,neutral,neutral,80,1,1,10,2023-05-02 00:12:04.807,2023-05-02 00:12:06.683,1.8760000000000001
+862,"No, no, he hasn't been around.",Phoebe,neutral,neutral,80,2,1,10,2023-05-02 00:12:08.227,2023-05-02 00:12:09.519,1.292
+863,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",Max,neutral,neutral,80,3,1,10,2023-05-02 00:12:09.687,2023-05-02 00:12:13.273,3.5860000000000003
+864,Minsk?,Phoebe,surprise,negative,80,4,1,10,2023-05-02 00:12:13.941,2023-05-02 00:12:14.533,0.5920000000000001
+865,Minsk. It's in Russia.,Max,neutral,neutral,80,5,1,10,2023-05-02 00:12:14.533,2023-05-02 00:12:16.673,2.14
+866,I know where Minsk is.,Phoebe,neutral,neutral,80,6,1,10,2023-05-02 00:12:17.737,2023-05-02 00:12:19.696,1.959
+868,"So when, when do you leave?",Phoebe,neutral,neutral,80,8,1,10,2023-05-02 00:12:26.078,2023-05-02 00:12:27.328,1.25
+869,January first,Max,neutral,neutral,80,9,1,10,2023-05-02 00:12:27.538,2023-05-02 00:12:29.205,1.667
+870,You wanted to see me Professor Geller?,Elizabeth,joy,positive,81,0,6,19,2023-05-02 00:09:51.882,2023-05-02 00:09:53.444,1.562
+871,"Yes. Yes! Please, come in.",Ross,neutral,neutral,81,1,6,19,2023-05-02 00:09:53.444,2023-05-02 00:09:56.235,2.7910000000000004
+873,Oo-oo!,Ross,joy,positive,81,2,6,19,2023-05-02 00:09:59.807,2023-05-02 00:10:01.016,1.209
+874,Pretty great! Except I did get a little attitude from the robot.,Joey,joy,positive,82,0,6,21,2023-05-02 00:09:50.006,2023-05-02 00:09:53.633,3.6270000000000002
+875,"Damn those robots, theyre supposed to be our",Chandler,anger,negative,82,1,6,21,2023-05-02 00:09:53.801,2023-05-02 00:09:57.137,3.3360000000000003
+876,"Anyway, it wasnt the robot, it was the guy who controls him.",Joey,neutral,neutral,82,2,6,21,2023-05-02 00:09:58.222,2023-05-02 00:10:00.724,2.5020000000000002
+877,"Yeah, he doesnt like me.",Joey,anger,negative,82,3,6,21,2023-05-02 00:10:00.891,2023-05-02 00:10:04.063,3.172
+878,He had C.H.E.E.S.E.,Joey,neutral,neutral,82,4,6,21,2023-05-02 00:10:04.063,2023-05-02 00:10:04.284,0.221
+879,knock over the sandwich right when I was reaching for one!,Joey,anger,negative,82,5,6,21,2023-05-02 00:10:02.227,2023-05-02 00:10:06.771,4.5440000000000005
+880,Ohh!,Joey,surprise,positive,82,6,6,21,2023-05-02 00:10:05.771,2023-05-02 00:10:06.771,1.0
+881,"Well, why dont you just get him fired?",Phoebe,neutral,neutral,82,7,6,21,2023-05-02 00:10:06.939,2023-05-02 00:10:08.607,1.6680000000000001
+882,"I may have to, I hate to do it, but Im the star!",Joey,anger,negative,82,8,6,21,2023-05-02 00:10:08.774,2023-05-02 00:10:11.706,2.9320000000000004
+883,Yknow?,Joey,neutral,neutral,82,9,6,21,2023-05-02 00:10:11.706,2023-05-02 00:10:12.508,0.802
+884,Theres a limit to how many sandwiches I can eat off the floor.,Joey,neutral,neutral,82,10,6,21,2023-05-02 00:10:12.612,2023-05-02 00:10:15.905,3.293
+885,Excuse me.,Joey,neutral,neutral,82,11,6,21,2023-05-02 00:10:17.825,2023-05-02 00:10:20.118,2.293
+886,Joey Tribbiani.,Joey,neutral,neutral,82,12,6,21,2023-05-02 00:10:20.286,2023-05-02 00:10:22.579,2.293
+887,"Joe! Im glad I found ya, I got an audition for ya!",Estelle,joy,positive,82,13,6,21,2023-05-02 00:10:22.747,2023-05-02 00:10:26.458,3.7110000000000003
+888,Wow!,Joey,surprise,positive,82,14,6,21,2023-05-02 00:10:26.626,2023-05-02 00:10:27.338,0.7120000000000001
+889,The thing is its kinda on the Q.T.,Estelle,neutral,neutral,82,15,6,21,2023-05-02 00:10:27.338,2023-05-02 00:10:29.678,2.3400000000000003
+890,The actor who has the part doesnt know he might be fired.,Estelle,neutral,neutral,82,16,6,21,2023-05-02 00:10:29.795,2023-05-02 00:10:33.715,3.9200000000000004
+891,"Its the lead in a series, Mac and C.H.E.E.S.E.",Estelle,neutral,neutral,82,17,6,21,2023-05-02 00:10:33.833,2023-05-02 00:10:37.761,3.9280000000000004
+892,Im the lead in Mac and C.H.E.E.S.E.!!,Joey,anger,negative,82,18,6,21,2023-05-02 00:10:39.597,2023-05-02 00:10:41.348,1.7510000000000001
+893,Oh good God! If you want a baby so bad just go steal it!,Monica,anger,negative,83,0,8,23,2023-05-02 00:10:26.614,2023-05-02 00:10:30.117,3.503
+894,What is going on with you? Since when are you so crazy about babies?,Monica,surprise,positive,83,1,8,23,2023-05-02 00:10:33.287,2023-05-02 00:10:36.582,3.2950000000000004
+895,Im not crazy about babies. Im crazy about us.,Chandler,joy,positive,83,2,8,23,2023-05-02 00:10:36.791,2023-05-02 00:10:41.128,4.337000000000001
+896,What?,Monica,surprise,positive,83,3,8,23,2023-05-02 00:10:42.838,2023-05-02 00:10:43.881,1.0430000000000001
+897,"Look, weve always talked about having babies someday.",Chandler,neutral,neutral,83,4,8,23,2023-05-02 00:10:44.131,2023-05-02 00:10:47.885,3.7540000000000004
+899,Were good.,Chandler,neutral,neutral,83,6,8,23,2023-05-02 00:10:52.307,2023-05-02 00:10:53.307,1.0
+900,Were really good.,Chandler,joy,positive,83,7,8,23,2023-05-02 00:10:53.474,2023-05-02 00:10:56.143,2.669
+901,"Oh, did you catch him?!",Monica,surprise,negative,84,0,5,13,2023-05-02 00:09:39.036,2023-05-02 00:09:41.288,2.2520000000000002
+903,Wh-what did he say?!,Ross,surprise,negative,84,1,5,13,2023-05-02 00:09:39.036,2023-05-02 00:09:41.288,2.2520000000000002
+905,Why?! Why not?!,Rachel,surprise,negative,84,3,5,13,2023-05-02 00:09:48.379,2023-05-02 00:09:49.462,1.083
+906,"Come on, you saw the way he ran out of here!",Phoebe,sadness,negative,84,4,5,13,2023-05-02 00:09:49.714,2023-05-02 00:09:51.172,1.4580000000000002
+908,He's gonna stick around and talk to the daughter he abandoned!,Phoebe,sadness,negative,84,5,5,13,2023-05-02 00:09:51.382,2023-05-02 00:09:54.175,2.793
+909,What did you say to him?,Joey,neutral,neutral,84,6,5,13,2023-05-02 00:09:54.427,2023-05-02 00:09:56.136,1.709
+911,"Oh yeah, sure.",Rachel,neutral,neutral,85,0,8,4,2023-05-02 00:18:12.424,2023-05-02 00:18:14.258,1.834
+912,"Okay, in about ten seconds youre gonna see him kiss me.",Rachel,joy,positive,85,1,8,4,2023-05-02 00:18:14.468,2023-05-02 00:18:17.053,2.585
+913,And in about five seconds youre gonna see why.,Ross,neutral,neutral,85,2,8,4,2023-05-02 00:18:17.221,2023-05-02 00:18:21.349,4.128
+915,"Okay, get ready to see some beggin!",Rachel,joy,positive,85,4,8,4,2023-05-02 00:18:37.407,2023-05-02 00:18:40.409,3.0020000000000002
+916,"Oh, you came on to Ross!",Phoebe,surprise,positive,85,5,8,4,2023-05-02 00:18:41.078,2023-05-02 00:18:43.579,2.5010000000000003
+917,What?!,Rachel,surprise,negative,85,6,8,4,2023-05-02 00:18:44.456,2023-05-02 00:18:46.542,2.0860000000000003
+918,Now Im so happy.,Ross,joy,positive,85,7,8,4,2023-05-02 00:18:46.542,2023-05-02 00:18:47.724,1.1820000000000002
+919,What are you talking about?!,Rachel,surprise,negative,85,8,8,4,2023-05-02 00:18:48.585,2023-05-02 00:18:50.227,1.6420000000000001
+920,You used the Europe story!,Monica,joy,positive,85,9,8,4,2023-05-02 00:18:50.227,2023-05-02 00:18:52.106,1.8790000000000002
+921,Thats the magic story you use when you wanna have sex!,Chandler,anger,negative,85,10,8,4,2023-05-02 00:18:52.214,2023-05-02 00:18:55.675,3.4610000000000003
+922,How do you know about that story?!,Rachel,surprise,negative,85,11,8,4,2023-05-02 00:18:57.803,2023-05-02 00:19:02.115,4.312
+923,How do,Joey,neutral,neutral,85,12,8,4,2023-05-02 00:19:02.115,2023-05-02 00:19:03.245,1.1300000000000001
+924,I heard it from my friend Irene who heard it from some guy!,Rachel,neutral,neutral,85,13,8,4,2023-05-02 00:19:03.433,2023-05-02 00:19:06.811,3.378
+925,Some guy!!,Joey,surprise,positive,85,14,8,4,2023-05-02 00:19:07.437,2023-05-02 00:19:09.689,2.2520000000000002
+926,"No. No, she told me his name was Ken Adams.",Rachel,neutral,neutral,85,15,8,4,2023-05-02 00:19:12.484,2023-05-02 00:19:15.153,2.669
+927,Ken Adams!!,Joey,surprise,positive,85,16,8,4,2023-05-02 00:19:18.115,2023-05-02 00:19:19.532,1.417
+928,"How we doing, you guys ready?",Ross,neutral,neutral,86,0,1,8,2023-05-02 00:13:16.003,2023-05-02 00:13:17.545,1.542
+930,Some days it's all I can think about.,Ross,neutral,neutral,86,2,1,8,2023-05-02 00:13:23.385,2023-05-02 00:13:25.637,2.2520000000000002
+931,"Hi, sorry I'm late, I couldn't find my bearings.",Phoebe,neutral,neutral,86,3,1,8,2023-05-02 00:13:26.514,2023-05-02 00:13:29.516,3.0020000000000002
+932,"Oh... ok, fine.",Ross,neutral,neutral,87,0,9,20,2023-05-02 00:08:48.975,2023-05-02 00:08:49.643,0.668
+933,But... ehm...,Ross,neutral,neutral,87,1,9,20,2023-05-02 00:08:49.643,2023-05-02 00:08:50.985,1.342
+934,"I just have one question for you,    ehm...",Ross,neutral,neutral,87,2,9,20,2023-05-02 00:08:50.985,2023-05-02 00:08:52.844,1.8590000000000002
+936,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",Charlie,joy,positive,87,4,9,20,2023-05-02 00:08:58.734,2023-05-02 00:09:03.572,4.838
+937,I cant believe this! How long as this been going on?,Phoebe,surprise,negative,88,0,8,14,2023-05-02 00:01:10.560,2023-05-02 00:01:12.960,2.4000000000000004
+938,"Well umm, Alexandra has been",Monica,neutral,neutral,88,1,8,14,2023-05-02 00:01:13.360,2023-05-02 00:01:15.920,2.56
+939,"Oh, it has a name?",Phoebe,surprise,negative,88,2,8,14,2023-05-02 00:01:15.920,2023-05-02 00:01:16.825,0.905
+940,"Phoebe, dont get upset!",Monica,sadness,negative,88,3,8,14,2023-05-02 00:01:18.320,2023-05-02 00:01:19.960,1.6400000000000001
+942,"Well, Phoebe I thought IdYeah, what the hell.",Chandler,neutral,neutral,88,5,8,14,2023-05-02 00:01:26.360,2023-05-02 00:01:30.160,3.8000000000000003
+943,Ben!,Joey,fear,negative,89,0,2,6,2023-05-02 00:12:04.348,2023-05-02 00:12:05.348,1.0
+944,"Oh, that's good. Maybe he'll hear you and pull the cord.",Chandler,anger,negative,89,1,2,6,2023-05-02 00:12:06.767,2023-05-02 00:12:10.562,3.7950000000000004
+945,Stop the bus! Wait! Wait! Wait!,Joey,fear,negative,89,2,2,6,2023-05-02 00:12:10.730,2023-05-02 00:12:15.525,4.795
+946,Are you sure he didn't break it because it really hurts?,Monica,neutral,neutral,89,3,2,6,2023-05-02 00:12:20.990,2023-05-02 00:12:23.408,2.418
+948,"Oh, I'm sorry, I'm really sorry.",Ross,sadness,negative,89,5,2,6,2023-05-02 00:12:32.293,2023-05-02 00:12:34.685,2.3920000000000003
+949,Sorry.,Ross,sadness,negative,89,6,2,6,2023-05-02 00:12:34.685,2023-05-02 00:12:35.144,0.459
+950,Sorry!,Ross,sadness,negative,89,7,2,6,2023-05-02 00:12:35.144,2023-05-02 00:12:35.290,0.14600000000000002
+953,I got my s's back!,Ross,joy,positive,89,8,2,6,2023-05-02 00:12:36.839,2023-05-02 00:12:40.467,3.628
+954,Which we can celebrate later.,Ross,neutral,neutral,89,9,2,6,2023-05-02 00:12:41.177,2023-05-02 00:12:43.803,2.6260000000000003
+955,Celebrate.,Ross,neutral,neutral,89,10,2,6,2023-05-02 00:12:44.430,2023-05-02 00:12:46.514,2.084
+957,"Rachel, how did this happen?",Monica,neutral,neutral,90,1,2,1,2023-05-02 00:11:09.418,2023-05-02 00:11:11.044,1.6260000000000001
+958,"I don't know, I just kinda ran into him last night.",Rachel,fear,negative,90,2,2,1,2023-05-02 00:11:11.212,2023-05-02 00:11:13.546,2.334
+959,Where?,Phoebe,neutral,neutral,90,3,2,1,2023-05-02 00:11:13.714,2023-05-02 00:11:15.090,1.3760000000000001
+960,At his apartment. Is this juice?,Rachel,neutral,neutral,90,4,2,1,2023-05-02 00:11:13.714,2023-05-02 00:11:16.800,3.0860000000000003
+961,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",Joey,anger,negative,90,5,2,1,2023-05-02 00:11:17.426,2023-05-02 00:11:21.179,3.753
+962,"Oh God, I know I'm a pathetic loser.",Rachel,sadness,negative,90,6,2,1,2023-05-02 00:11:21.347,2023-05-02 00:11:24.474,3.1270000000000002
+963,"I licked my arm, what?",Phoebe,surprise,positive,91,0,2,2,2023-05-02 00:09:10.633,2023-05-02 00:09:12.425,1.792
+964,It's breast milk.,Ross,neutral,neutral,91,1,2,2,2023-05-02 00:09:12.593,2023-05-02 00:09:14.928,2.335
+965,So?,Phoebe,neutral,neutral,91,2,2,2,2023-05-02 00:09:15.096,2023-05-02 00:09:16.346,1.25
+966,"Phoebe, that is juice, squeezed from a person.",Rachel,neutral,neutral,91,3,2,2,2023-05-02 00:09:16.514,2023-05-02 00:09:20.600,4.086
+967,What is the big deal?,Joey,anger,negative,91,4,2,2,2023-05-02 00:09:21.435,2023-05-02 00:09:24.229,2.794
+968,What did you just do?,Chandler,surprise,negative,91,5,2,2,2023-05-02 00:09:25.815,2023-05-02 00:09:27.440,1.625
+969,"Ok, would people stop drinking the breast milk?",Ross,disgust,negative,91,6,2,2,2023-05-02 00:09:29.485,2023-05-02 00:09:32.904,3.419
+970,You won't even taste it?,Phoebe,neutral,neutral,91,7,2,2,2023-05-02 00:09:34.407,2023-05-02 00:09:36.329,1.9220000000000002
+971,No!,Ross,disgust,negative,91,8,2,2,2023-05-02 00:09:36.329,2023-05-02 00:09:37.373,1.044
+972,Not even if you just pretend that it's milk?,Phoebe,neutral,neutral,91,9,2,2,2023-05-02 00:09:37.493,2023-05-02 00:09:39.703,2.21
+973,Not even if Carol's breast had a picture of a missing child on it.,Ross,disgust,negative,91,10,2,2,2023-05-02 00:09:39.870,2023-05-02 00:09:43.206,3.3360000000000003
+974,Aww!,All,surprise,positive,92,0,6,11,2023-05-02 00:12:03.764,2023-05-02 00:12:05.181,1.417
+977,Oh sure!  Noo!,Phoebe,joy,positive,92,2,6,11,2023-05-02 00:12:17.278,2023-05-02 00:12:18.778,1.5
+978,Ohh!!,Rachel,surprise,negative,92,3,6,11,2023-05-02 00:12:18.946,2023-05-02 00:12:19.988,1.042
+979,My apothecary table!!!,Ross,surprise,negative,92,4,6,11,2023-05-02 00:12:20.156,2023-05-02 00:12:21.958,1.802
+980,What?!,Phoebe,surprise,negative,92,5,6,11,2023-05-02 00:12:22.658,2023-05-02 00:12:23.326,0.668
+982,Noooooo!!,Rachel,fear,negative,92,6,6,11,2023-05-02 00:12:23.326,2023-05-02 00:12:24.798,1.4720000000000002
+983,"Ross, where did you get this?!",Phoebe,surprise,negative,92,7,6,11,2023-05-02 00:12:25.619,2023-05-02 00:12:28.747,3.128
+985,"Oh my God, Phoebe,",Rachel,anger,negative,92,8,6,11,2023-05-02 00:12:31.375,2023-05-02 00:12:33.251,1.8760000000000001
+988,Well this doesnt even smell like opium.,Phoebe,disgust,negative,92,10,6,11,2023-05-02 00:12:47.641,2023-05-02 00:12:50.018,2.3770000000000002
+990,How is she?,Rachel,sadness,negative,93,0,2,1,2023-05-02 00:15:03.402,2023-05-02 00:15:05.028,1.6260000000000001
+992,How's the hair?,Ross,neutral,neutral,93,2,2,1,2023-05-02 00:15:12.703,2023-05-02 00:15:15.288,2.585
+993,"I'm not gonna lie to you, Ross, it doesn't look good.",Phoebe,sadness,negative,93,3,2,1,2023-05-02 00:15:12.703,2023-05-02 00:15:17.206,4.503
+994,"I put a clip on one side, which seems to have stopped the curling.",Phoebe,neutral,neutral,93,4,2,1,2023-05-02 00:15:19.084,2023-05-02 00:15:22.295,3.2110000000000003
+995,Can we see her?,Joey,neutral,neutral,93,5,2,1,2023-05-02 00:15:24.173,2023-05-02 00:15:25.298,1.125
+998,How're you doing?,Joey,sadness,negative,93,7,2,1,2023-05-02 00:15:38.479,2023-05-02 00:15:40.980,2.5010000000000003
+999,Of course the packaging does appeal to grown-ups and kids alike.,Chandler,neutral,neutral,94,0,2,2,2023-05-02 00:13:10.331,2023-05-02 00:13:13.708,3.3770000000000002
+1001,That would be no.,Ross,disgust,negative,94,2,2,2,2023-05-02 00:13:21.717,2023-05-02 00:13:23.551,1.834
+1002,Come on. It doesn't taste bad.,Phoebe,neutral,neutral,94,3,2,2,2023-05-02 00:13:24.345,2023-05-02 00:13:28.306,3.9610000000000003
+1003,"Yeah, it's kinda sweet, sorta like, uh...",Joey,neutral,neutral,94,4,2,2,2023-05-02 00:13:28.474,2023-05-02 00:13:31.392,2.918
+1004,Cantaloupe juice.,Susan,joy,positive,94,5,2,2,2023-05-02 00:13:31.560,2023-05-02 00:13:33.686,2.1260000000000003
+1005,Exactly.,Joey,neutral,neutral,94,6,2,2,2023-05-02 00:13:33.854,2023-05-02 00:13:35.396,1.542
+1006,You've tasted it? You've tasted it.,Ross,surprise,positive,94,7,2,2,2023-05-02 00:13:42.404,2023-05-02 00:13:46.199,3.7950000000000004
+1007,Uh huh.,Susan,neutral,neutral,94,8,2,2,2023-05-02 00:13:46.367,2023-05-02 00:13:47.659,1.292
+1008,"Oh, you've tasted it.",Ross,anger,negative,94,9,2,2,2023-05-02 00:13:48.410,2023-05-02 00:13:50.245,1.8350000000000002
+1009,"You can keep saying it, but it won't stop being true.",Susan,neutral,neutral,94,10,2,2,2023-05-02 00:13:52.414,2023-05-02 00:13:55.375,2.9610000000000003
+1010,Gimme the bottle.  Gimme the towel.,Ross,anger,negative,94,11,2,2,2023-05-02 00:14:03.217,2023-05-02 00:14:04.634,1.417
+1011,I still don't get why Greg and Jenny would give us a fake number.,Monica,anger,negative,95,0,8,4,2023-05-02 00:12:36.922,2023-05-02 00:12:39.966,3.044
+1013,"Okay, maybe people give out fake numbers, but they dont give out fake names.",Monica,anger,negative,95,2,8,4,2023-05-02 00:12:46.390,2023-05-02 00:12:50.226,3.8360000000000003
+1014,"Oh yeah?  Hi, Ken Adams, nice to meet you.",Joey,neutral,neutral,95,3,8,4,2023-05-02 00:12:50.394,2023-05-02 00:12:54.147,3.753
+1015,Regina Philange.,Phoebe,neutral,neutral,95,4,8,4,2023-05-02 00:12:56.400,2023-05-02 00:12:59.068,2.668
+1016,"I still dont get it, we didnt do anything wrong.",Chandler,surprise,negative,95,5,8,4,2023-05-02 00:12:59.862,2023-05-02 00:13:02.530,2.668
+1017,"I know! Although, you did tell an awful lot of jokes.",Monica,anger,negative,95,6,8,4,2023-05-02 00:13:04.492,2023-05-02 00:13:08.036,3.544
+1018,I thought you said those jokes were funny. Joke! Joke! Joke!,Chandler,surprise,positive,95,7,8,4,2023-05-02 00:13:08.871,2023-05-02 00:13:12.707,3.8360000000000003
+1019,Joke. Joke. Blah! Blah!,Monica,anger,negative,95,8,8,4,2023-05-02 00:13:12.875,2023-05-02 00:13:15.627,2.7520000000000002
+1020,Well maybe it was all of your questions.,Chandler,neutral,neutral,95,9,8,4,2023-05-02 00:13:20.508,2023-05-02 00:13:22.490,1.9820000000000002
+1021,What about my questions?,Monica,neutral,neutral,95,10,8,4,2023-05-02 00:13:22.490,2023-05-02 00:13:23.602,1.112
+1022,"No, Im sorry. Its just my foot itches like crazy.",Cliff,neutral,neutral,96,0,8,24,2023-05-02 00:04:00.603,2023-05-02 00:04:03.523,2.9200000000000004
+1023,"Oh, Ill get it.",Phoebe,neutral,neutral,96,1,8,24,2023-05-02 00:04:03.690,2023-05-02 00:04:06.150,2.46
+1024,Wow! I usually get to know a girl a little better before I let her spoon me.,Cliff,surprise,negative,96,2,8,24,2023-05-02 00:04:07.735,2023-05-02 00:04:11.572,3.837
+1025,"Relax, its not like were forking.",Phoebe,joy,positive,96,3,8,24,2023-05-02 00:04:12.907,2023-05-02 00:04:15.493,2.5860000000000003
+1027,Hey!,Phoebe,joy,positive,97,1,3,20,2023-05-02 00:04:06.204,2023-05-02 00:04:06.706,0.502
+1028,Hello.,Chandler,neutral,neutral,97,2,3,20,2023-05-02 00:04:06.706,2023-05-02 00:04:08.722,2.016
+1030,I know!!!,Monica,joy,positive,97,4,3,20,2023-05-02 00:04:11.835,2023-05-02 00:04:13.835,2.0
+1031,"So, Im here, ready to play.",Phoebe,joy,positive,97,5,3,20,2023-05-02 00:04:14.963,2023-05-02 00:04:16.675,1.7120000000000002
+1032,Okay.,Monica,neutral,neutral,97,6,3,20,2023-05-02 00:04:16.675,2023-05-02 00:04:17.695,1.02
+1033,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",Phoebe,joy,positive,97,7,3,20,2023-05-02 00:04:17.799,2023-05-02 00:04:22.261,4.462000000000001
+1034,Whats this?,Monica,surprise,positive,97,8,3,20,2023-05-02 00:04:25.974,2023-05-02 00:04:27.057,1.083
+1035,"Thats a dog, every house should have a dog.",Phoebe,joy,positive,97,9,3,20,2023-05-02 00:04:27.225,2023-05-02 00:04:29.559,2.334
+1036,Not one that can pee on the roof.,Monica,surprise,negative,97,10,3,20,2023-05-02 00:04:30.144,2023-05-02 00:04:32.020,1.8760000000000001
+1038,And is this in case the house sneezes?,Chandler,surprise,negative,97,12,3,20,2023-05-02 00:04:41.447,2023-05-02 00:04:45.033,3.5860000000000003
+1039,"No, no, thats the ghost for the attic.",Phoebe,neutral,neutral,97,13,3,20,2023-05-02 00:04:46.619,2023-05-02 00:04:50.122,3.503
+1040,I dont want a ghost.,Monica,fear,negative,97,14,3,20,2023-05-02 00:04:51.249,2023-05-02 00:04:55.043,3.794
+1043,"Okay, obviously you dont know much about the U.S. government.",Phoebe,neutral,neutral,97,17,3,20,2023-05-02 00:05:14.063,2023-05-02 00:05:17.899,3.8360000000000003
+1044,Hey!,Rachel,surprise,positive,97,18,3,20,2023-05-02 00:05:19.068,2023-05-02 00:05:20.960,1.8920000000000001
+1045,Hello.,All,neutral,neutral,97,19,3,20,2023-05-02 00:05:20.960,2023-05-02 00:05:21.458,0.49800000000000005
+1046,I need to talk to you!,Rachel,joy,positive,97,20,3,20,2023-05-02 00:05:21.571,2023-05-02 00:05:23.115,1.544
+1047,"Sure, whats up?",Ross,neutral,neutral,97,21,3,20,2023-05-02 00:05:23.115,2023-05-02 00:05:24.625,1.51
+1049,"Please, I'm not going for anything.",Monica,disgust,negative,98,1,3,12,2023-05-02 00:05:24.449,2023-05-02 00:05:28.076,3.6270000000000002
+1050,"Well, if you don't, I will.",Jeannine,anger,negative,98,2,3,12,2023-05-02 00:05:28.244,2023-05-02 00:05:29.955,1.711
+1051,Would you please go?,Monica,joy,positive,98,3,3,12,2023-05-02 00:05:29.955,2023-05-02 00:05:31.517,1.562
+1052,I would!,Ross,anger,negative,98,4,3,12,2023-05-02 00:05:31.517,2023-05-02 00:05:31.727,0.21000000000000002
+1053,"Hey, guys, guys, did you see my new, china cabinet?!",Monica,joy,positive,99,0,3,20,2023-05-02 00:09:00.831,2023-05-02 00:09:04.876,4.045
+1054,Uh-huh.,Ross and Rachel,neutral,neutral,99,1,3,20,2023-05-02 00:09:05.294,2023-05-02 00:09:06.336,1.042
+1055,"Watch, watch.",Phoebe,joy,positive,99,2,3,20,2023-05-02 00:09:08.256,2023-05-02 00:09:09.297,1.0410000000000001
+1057,Ooohhhh!!,Ross and Rachel,surprise,positive,99,3,3,20,2023-05-02 00:09:10.633,2023-05-02 00:09:10.717,0.084
+1059,"And, and!",Phoebe,joy,positive,99,4,3,20,2023-05-02 00:09:10.717,2023-05-02 00:09:12.855,2.1380000000000003
+1060,Ahhhh!!,Ross and Rachel,surprise,positive,99,5,3,20,2023-05-02 00:09:12.969,2023-05-02 00:09:15.345,2.3760000000000003
+1061,"Hey, my Fathers house does that!",Chandler,surprise,positive,99,6,3,20,2023-05-02 00:09:17.223,2023-05-02 00:09:19.933,2.71
+1062,"O-o-o-okay, how did it go? Tell me everything.",Rachel,neutral,neutral,99,7,3,20,2023-05-02 00:09:21.143,2023-05-02 00:09:23.937,2.794
+1064,Okay. Its Emma.,Monica,neutral,neutral,100,0,1,1,2023-05-02 00:13:23.916,2023-05-02 00:13:26.460,2.544
+1066,Take it.,Monica,neutral,neutral,102,0,1,2,2023-05-02 00:13:40.766,2023-05-02 00:13:42.477,1.711
+1067,What?,Rachel,neutral,neutral,102,1,1,2,2023-05-02 00:13:42.477,2023-05-02 00:13:43.955,1.4780000000000002
+1068,Its clearly an Emma.,Monica,neutral,neutral,103,0,8,24,2023-05-02 00:13:44.395,2023-05-02 00:13:46.438,2.043
+1069,"Oh honey, but you love that name.",Rachel,sadness,negative,103,1,8,24,2023-05-02 00:13:46.605,2023-05-02 00:13:48.816,2.2110000000000003
+1070,"Yeah, but I love you more.",Monica,joy,positive,103,2,8,24,2023-05-02 00:13:49.817,2023-05-02 00:13:51.986,2.169
+1071,"Besides yknow, nothing goes with Bing.",Monica,neutral,neutral,103,3,8,24,2023-05-02 00:13:55.072,2023-05-02 00:13:57.909,2.837
+1072,So Im screwed.,Monica,joy,positive,103,4,8,24,2023-05-02 00:13:57.909,2023-05-02 00:13:59.473,1.564
+1081,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",Chandler,joy,positive,104,0,5,8,2023-05-02 00:20:15.464,2023-05-02 00:20:18.925,3.4610000000000003
+1082,Nice try.,Chandler,sadness,negative,104,1,5,8,2023-05-02 00:20:30.395,2023-05-02 00:20:31.520,1.125
+1083,"Wait, wait, wait!",Monica,joy,positive,104,2,5,8,2023-05-02 00:20:31.688,2023-05-02 00:20:33.522,1.834
+1084,"Look, Monica",Chandler,neutral,neutral,104,3,5,8,2023-05-02 00:20:36.526,2023-05-02 00:20:37.361,0.8350000000000001
+1085,Look!,Monica,surprise,negative,104,4,5,8,2023-05-02 00:20:37.361,2023-05-02 00:20:37.799,0.438
+1086,This is not going to work.,Chandler,anger,negative,104,5,5,8,2023-05-02 00:20:42.366,2023-05-02 00:20:43.699,1.3330000000000002
+1087,I bet this will work!,Monica,joy,positive,104,6,5,8,2023-05-02 00:20:43.867,2023-05-02 00:20:45.660,1.7930000000000001
+1088,You are so great! I love you!,Chandler,joy,positive,104,7,5,8,2023-05-02 00:20:54.086,2023-05-02 00:20:56.754,2.668
+1089,What?,Monica,surprise,positive,104,8,5,8,2023-05-02 00:21:06.431,2023-05-02 00:21:07.765,1.334
+1090,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",Chandler,fear,negative,104,9,5,8,2023-05-02 00:21:07.933,2023-05-02 00:21:11.852,3.919
+1091,You said you loved me! I can't believe this!,Monica,surprise,positive,104,10,5,8,2023-05-02 00:21:13.563,2023-05-02 00:21:15.815,2.2520000000000002
+1092,No I didn't!,Chandler,fear,negative,104,11,5,8,2023-05-02 00:21:15.983,2023-05-02 00:21:17.108,1.125
+1093,"Yes, you did!",Monica,surprise,positive,104,12,5,8,2023-05-02 00:21:18.944,2023-05-02 00:21:21.072,2.128
+1094,No I didn't!,Chandler,fear,negative,104,13,5,8,2023-05-02 00:21:21.072,2023-05-02 00:21:21.468,0.396
+1095,You love me!,Monica,joy,positive,104,14,5,8,2023-05-02 00:21:22.281,2023-05-02 00:21:23.823,1.542
+1096,No I don't! Stop it! Stop it! Stop it! Stop it!,Chandler,anger,negative,104,15,5,8,2023-05-02 00:21:24.032,2023-05-02 00:21:26.993,2.9610000000000003
+1097,Hello Greg?,Monica,neutral,neutral,105,0,8,4,2023-05-02 00:21:37.296,2023-05-02 00:21:40.258,2.962
+1098,"Hi, this is Monica from the plane?",Monica,neutral,neutral,105,1,8,4,2023-05-02 00:21:40.258,2023-05-02 00:21:40.443,0.185
+1100,Jennys been giving it out since they moved!,Monica,anger,negative,105,3,8,4,2023-05-02 00:21:44.678,2023-05-02 00:21:47.722,3.044
+1101,Jenny! That is so Jenny!,Chandler,joy,positive,105,4,8,4,2023-05-02 00:21:47.889,2023-05-02 00:21:51.851,3.962
+1102,"Hey listen umm, how would you like to get together?",Monica,neutral,neutral,105,5,8,4,2023-05-02 00:21:52.019,2023-05-02 00:21:55.938,3.919
+1103,Say next Saturday?,Monica,neutral,neutral,105,6,8,4,2023-05-02 00:21:54.000,2023-05-02 00:21:55.938,1.9380000000000002
+1104,"Okay, how about Sunday?",Monica,neutral,neutral,105,7,8,4,2023-05-02 00:21:56.106,2023-05-02 00:21:58.316,2.21
+1105,"Okay umm, the week after that?",Monica,joy,positive,105,8,8,4,2023-05-02 00:21:58.483,2023-05-02 00:21:59.568,1.085
+1106,The week after that?,Monica,joy,positive,105,9,8,4,2023-05-02 00:21:59.568,2023-05-02 00:22:01.261,1.693
+1107,Yknow what Greg?,Monica,anger,negative,105,10,8,4,2023-05-02 00:22:03.488,2023-05-02 00:22:04.947,1.459
+1109,"We are good, interesting, funny people with",Monica,anger,negative,105,11,8,4,2023-05-02 00:22:05.115,2023-05-02 00:22:09.410,4.295
+1110,Hey Chandler! Yknow that girl you went to college with who-who became a movie director?,Joey,neutral,neutral,106,0,6,18,2023-05-02 00:01:59.994,2023-05-02 00:02:03.997,4.003
+1111,"Oh yeah, Dana Keystone. She was in my Movement class.",Chandler,neutral,neutral,106,1,6,18,2023-05-02 00:02:04.165,2023-05-02 00:02:07.543,3.378
+1112,Whats a Movement class?,Phoebe,neutral,neutral,106,2,6,18,2023-05-02 00:02:08.169,2023-05-02 00:02:09.795,1.6260000000000001
+1113,Its Chandlers way of pretending he didnt take mime.,Monica,neutral,neutral,106,3,6,18,2023-05-02 00:02:09.963,2023-05-02 00:02:13.340,3.3770000000000002
+1115,"Oh, I dont know man. I havent talked to her in like ten years.",Chandler,neutral,neutral,106,5,6,18,2023-05-02 00:02:17.846,2023-05-02 00:02:21.306,3.4600000000000004
+1116,I am.,Phoebe,neutral,neutral,107,0,6,20,2023-05-02 00:02:38.000,2023-05-02 00:02:39.575,1.5750000000000002
+1117,"Joey, what are you talking about? Youre a terrific actor.",Rachel,neutral,neutral,107,1,6,20,2023-05-02 00:02:41.578,2023-05-02 00:02:44.454,2.8760000000000003
+1118,You really think so?,Joey,surprise,positive,107,2,6,20,2023-05-02 00:02:44.789,2023-05-02 00:02:45.501,0.7120000000000001
+1119,"Ugh, how can you even ask that question?!",Rachel,surprise,positive,107,3,6,20,2023-05-02 00:02:45.501,2023-05-02 00:02:48.182,2.681
+1120,Ross! Get a shot of this. (He's carrying an issue of the,Joey,surprise,positive,108,0,5,3,2023-05-02 00:05:14.564,2023-05-02 00:05:18.025,3.4610000000000003
+1121,"Oh, okay, I'm having another one!",Phoebe,fear,negative,108,1,5,3,2023-05-02 00:05:35.126,2023-05-02 00:05:37.669,2.543
+1122,"This one doesn't hurt eitherOoh, yes it does!",Phoebe,surprise,negative,108,2,5,3,2023-05-02 00:05:37.879,2023-05-02 00:05:40.756,2.8770000000000002
+1123,Ow!,Phoebe,anger,negative,108,3,5,3,2023-05-02 00:05:39.756,2023-05-02 00:05:40.756,1.0
+1124,Ow!,Phoebe,anger,negative,108,4,5,3,2023-05-02 00:05:41.132,2023-05-02 00:05:41.466,0.334
+1125,Ow!,Phoebe,anger,negative,108,5,5,3,2023-05-02 00:05:41.466,2023-05-02 00:05:41.550,0.084
+1126,Ow!,Phoebe,anger,negative,108,6,5,3,2023-05-02 00:05:41.550,2023-05-02 00:05:43.135,1.5850000000000002
+1127,Ooh!,Phoebe,surprise,negative,108,7,5,3,2023-05-02 00:05:43.676,2023-05-02 00:05:45.385,1.709
+1128,"Oh, I was kinda hoping that was it.",Phoebe,sadness,negative,108,8,5,3,2023-05-02 00:05:46.554,2023-05-02 00:05:48.555,2.0010000000000003
+1129,"Hey, where are Monica and Rachel anyway?",Ross,neutral,neutral,108,9,5,3,2023-05-02 00:05:51.267,2023-05-02 00:05:53.518,2.2510000000000003
+1131,"Yeah, I love you. Okay, bye!  Hi!",Frank,joy,positive,108,10,5,3,2023-05-02 00:14:10.766,2023-05-02 00:14:13.810,3.044
+1132,Hi!,Rachel,joy,positive,108,11,5,3,2023-05-02 00:14:14.812,2023-05-02 00:14:15.895,1.083
+1133,"That was Alice's mom, she said she left five hours ago. She should be here by now!",Frank,fear,negative,108,12,5,3,2023-05-02 00:14:16.105,2023-05-02 00:14:20.567,4.462000000000001
+1134,"Oh, honey, dont worry. She's gonna make it on time.",Rachel,neutral,neutral,108,13,5,3,2023-05-02 00:14:20.776,2023-05-02 00:14:22.485,1.709
+1135,Yeah.,Frank,neutral,neutral,108,14,5,3,2023-05-02 00:14:23.028,2023-05-02 00:14:24.445,1.417
+1136,I guess I set up the video camera to try and entice Joey.,Monica,neutral,neutral,109,0,5,9,2023-05-02 00:20:41.823,2023-05-02 00:20:46.077,4.2540000000000004
+1137,But sadly I could not be enticed.,Joey,joy,positive,109,1,5,9,2023-05-02 00:20:47.371,2023-05-02 00:20:50.331,2.96
+1141,Eh?,Joey,neutral,neutral,109,5,5,9,2023-05-02 00:21:20.570,2023-05-02 00:21:21.988,1.4180000000000001
+1142,"All right, now, I'm going to get back to my bucket.",Joey,neutral,neutral,109,6,5,9,2023-05-02 00:21:22.155,2023-05-02 00:21:26.242,4.087000000000001
+1143,"I'm only eating the skin, so the chicken's up for grabs.",Joey,neutral,neutral,109,7,5,9,2023-05-02 00:21:27.703,2023-05-02 00:21:30.913,3.2100000000000004
+1145,"Ohh, okay, they gave you the old time pricing.",Phoebe,neutral,neutral,110,0,6,11,2023-05-02 00:06:52.412,2023-05-02 00:06:54.874,2.462
+1146,Yeah.,Rachel,neutral,neutral,110,1,6,11,2023-05-02 00:06:54.874,2023-05-02 00:06:56.125,1.2510000000000001
+1147,"Well, what period is it from?",Phoebe,neutral,neutral,110,2,6,11,2023-05-02 00:06:57.417,2023-05-02 00:06:59.167,1.75
+1148,"Uh, its from yore. Like the days of yore. Yknow?",Rachel,neutral,neutral,110,3,6,11,2023-05-02 00:06:59.335,2023-05-02 00:07:03.380,4.045
+1149,"Yes, yes I do.",Phoebe,neutral,neutral,110,4,6,11,2023-05-02 00:07:03.589,2023-05-02 00:07:05.757,2.168
+1150,"God, oh its just perfect!",Phoebe,joy,positive,110,5,6,11,2023-05-02 00:07:05.925,2023-05-02 00:07:09.219,3.294
+1152,I bet it has a great story behind it too.,Phoebe,joy,positive,110,6,6,11,2023-05-02 00:07:09.387,2023-05-02 00:07:11.596,2.209
+1153,Did they tell you anything?,Phoebe,neutral,neutral,110,7,6,11,2023-05-02 00:07:11.764,2023-05-02 00:07:13.890,2.1260000000000003
+1155,"Yes! That I know, this is from White Plains.",Rachel,joy,positive,110,8,6,11,2023-05-02 00:07:14.058,2023-05-02 00:07:16.935,2.8770000000000002
+1156,"White Plains. Oh, it sounds like such a magical place.",Phoebe,joy,positive,110,9,6,11,2023-05-02 00:07:19.188,2023-05-02 00:07:23.608,4.42
+1157,"So, you still dont think Im boyfriend material?",Chandler,anger,negative,111,0,3,25,2023-05-02 00:11:50.876,2023-05-02 00:11:55.588,4.712000000000001
+1158,Huh?,Monica,neutral,neutral,111,1,3,25,2023-05-02 00:11:56.298,2023-05-02 00:11:57.340,1.042
+1159,I saw you checking me out during the game last night.,Chandler,neutral,neutral,111,2,3,25,2023-05-02 00:11:57.508,2023-05-02 00:12:00.844,3.3360000000000003
+1160,"I, umm, shut up!",Phoebe,anger,negative,112,0,4,1,2023-05-02 00:13:29.892,2023-05-02 00:13:32.101,2.209
+1163,Noooo!!,Phoebe,sadness,negative,112,3,4,1,2023-05-02 00:13:53.499,2023-05-02 00:13:55.166,1.667
+1164,"All right, hang on!",Ursula,neutral,neutral,112,4,4,1,2023-05-02 00:13:55.918,2023-05-02 00:13:57.752,1.834
+1166,But I,Rachel,sadness,negative,113,1,6,2,2023-05-02 00:18:59.513,2023-05-02 00:19:00.015,0.502
+1167,"No-no, wait!",Monica,neutral,neutral,113,2,6,2,2023-05-02 00:19:00.015,2023-05-02 00:19:02.147,2.132
+1168,"Just let me finish, okay?",Monica,sadness,negative,113,3,6,2,2023-05-02 00:19:02.147,2023-05-02 00:19:02.469,0.322
+1170,And it,Monica,neutral,neutral,113,5,6,2,2023-05-02 00:19:11.525,2023-05-02 00:19:14.068,2.543
+1171,It is? Really?,Rachel,surprise,negative,113,6,6,2,2023-05-02 00:19:14.862,2023-05-02 00:19:19.699,4.837000000000001
+1172,"Yeah, sweetie.",Monica,neutral,neutral,113,7,6,2,2023-05-02 00:19:20.159,2023-05-02 00:19:21.826,1.667
+1173,"I mean were not, were not gonna live together anymore?",Rachel,sadness,negative,113,8,6,2,2023-05-02 00:19:23.620,2023-05-02 00:19:27.540,3.9200000000000004
+1174,No.,Monica,sadness,negative,113,9,6,2,2023-05-02 00:19:28.792,2023-05-02 00:19:29.876,1.084
+1175,What? Oh my God! Im gonna miss you so much!,Rachel,sadness,negative,113,10,6,2,2023-05-02 00:19:33.213,2023-05-02 00:19:35.965,2.7520000000000002
+1176,Im gonna miss you!,Monica,sadness,negative,113,11,6,2,2023-05-02 00:19:36.175,2023-05-02 00:19:37.967,1.792
+1177,I mean its the end of an era!,Rachel,sadness,negative,113,12,6,2,2023-05-02 00:19:39.094,2023-05-02 00:19:40.928,1.834
+1178,I know!,Monica,sadness,negative,113,13,6,2,2023-05-02 00:19:41.138,2023-05-02 00:19:42.638,1.5
